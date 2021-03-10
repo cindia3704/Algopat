@@ -6,11 +6,11 @@
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
 | 39 | 2021-03-11 | 오르막 수 (11057)| C++ | 백준 동적 프로그래밍 (Silver I) |
-| 38 | 2021-03-10 | 쉬운 계단 수 (10844번)| C++ | 백준 동적 프로그래밍 (Silver I) |
-| 37 | 2021-03-09 | 1,2,3 더하기 (9095번)| C++ | 백준 동적 프로그래밍 (Silver III) |
-| 36 | 2021-03-09 | 2xn 타일링2 (11727번)| C++ | 백준 동적 프로그래밍 (Silver III) |
-| 35 | 2021-03-09 | 2xn 타일링 (11726번)| C++ | 백준 동적 프로그래밍 (Silver III) |
-| 34 | 2021-03-08 | 1로 만들기 (1463번)| C++ | 백준 동적 프로그래밍 (Silver III) |
+| 38 | 2021-03-10 | 쉬운 계단 수 (10844번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/%EC%89%AC%EC%9A%B4%EA%B3%84%EB%8B%A8%EC%88%98_10844.md)]| C++ | 백준 동적 프로그래밍 (Silver I) |
+| 37 | 2021-03-09 | 1,2,3 더하기 (9095번) | C++ | 백준 동적 프로그래밍 (Silver III) |
+| 36 | 2021-03-09 | 2xn 타일링2 (11727번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/2xnTiling_11726.md)]| C++ | 백준 동적 프로그래밍 (Silver III) |
+| 35 | 2021-03-09 | 2xn 타일링 (11726번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/2xnTiling_11726.md)]| C++ | 백준 동적 프로그래밍 (Silver III) |
+| 34 | 2021-03-08 | 1로 만들기 (1463번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/makeTo1_1463_solution.md)]| C++ | 백준 동적 프로그래밍 (Silver III) |
 | 33 | 2021-02-27 | 거스름돈 (5595번)| C++ | 백준 그리디 알고리즘 (Bronze II) |
 | 32 | 2021-02-27 | 설탕배달 (2839번)| C++ | 백준 그리디 알고리즘 (Bronze I) |
 | 31 | 2021-02-25 | 트리의 순회 (2263번)| C++ | 백준 트리 문제 (Gold III) |
