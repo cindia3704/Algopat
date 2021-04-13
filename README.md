@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 43 | 2021-04-15 | 숫자 고르기 (2668)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/selectNumber_2668.cpp) | 백준 BFS/DFS (Gold V) |
 | 42 | 2021-04-15 | 단지 번호 붙이기 (2667)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/numberingBuildings_2667.cpp) | 백준 BFS/DFS (Silver I) |
 | 41 | 2021-04-14 | BFS DFS (1260)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/BFSDFS_1260.cpp) | 백준 BFS/DFS (Silver II) |
 | 40 | 2021-03-17 | 이친수 (2193)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/pinaryNumber_2193.cpp) | 백준 동적 프로그래밍 (Silver III) |
