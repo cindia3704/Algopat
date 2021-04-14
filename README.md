@@ -7,7 +7,7 @@
 |---|------|---|---|---|
 | 46 | 2021-04-14 | 포도주 시식 (2156번)[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/drinkingWine_2156.md)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/drinkingWine_2156.cpp) | 백준 동적 프로그래밍 (Silver I) |
 | 45 | 2021-04-14 | ABCDE (13023번) [풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/ABCDE_13023.md)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/ABCDE_13023.cpp) | 백준 BFS/DFS (Gold V) |
-| 44 | 2021-04-14 | 연결 요소의 개수 (11724번) [풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/connectedElementNumber_11724.md) | 백준 BFS/DFS (Silver II) |
+| 44 | 2021-04-14 | 연결 요소의 개수 (11724번) [풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/connectedElementNumber_11724.md)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/connectedElementNumber_11724.cpp)| 백준 BFS/DFS (Silver II) |
 | 43 | 2021-04-14 | 숫자 고르기 (2668번) [풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/selectNumber_2668.md)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/selectNumber_2668.cpp) | 백준 BFS/DFS (Gold V) |
 | 42 | 2021-04-14 | 단지 번호 붙이기 (2667번) [풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/numberingBuildings_2667.md)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/numberingBuildings_2667.cpp) | 백준 BFS/DFS (Silver I) |
 | 41 | 2021-04-14 | BFS DFS (1260번) [풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/BFSDFS_1260.md) | 백준 BFS/DFS (Silver II) |
