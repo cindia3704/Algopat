@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 47 | 2021-04-15 | 연산자 끼워넣기 (14888번)[[풀이]](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/putOperator_14888.md)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/putOperator_14888.cpp) | 백준 동적 프로그래밍 (Silver I) |
 | 46 | 2021-04-14 | 포도주 시식 (2156번)[[풀이]](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/drinkingWine_2156.md)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/drinkingWine_2156.cpp) | 백준 동적 프로그래밍 (Silver I) |
 | 45 | 2021-04-14 | ABCDE (13023번) [[풀이]](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/ABCDE_13023.md)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/ABCDE_13023.cpp) | 백준 BFS/DFS (Gold V) |
 | 44 | 2021-04-14 | 연결 요소의 개수 (11724번) [[풀이]](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/connectedElementNumber_11724.md)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/connectedElementNumber_11724.cpp)| 백준 BFS/DFS (Silver II) |
