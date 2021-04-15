@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 49 | 2021-04-15 | 퇴사 (14501번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/solutions/retirement_14501.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/retirement_14501.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver IV)|
 | 48 | 2021-04-15 | 시험 감독 (13458번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/solutions/testInstructor_13458.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/testInstructor_13458.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Bronze II)|
 | 47 | 2021-04-15 | 연산자 끼워넣기 (14888번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/solutions/putOperator_14888.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/putOperator_14888.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver I)|
 | 46 | 2021-04-14 | 포도주 시식 (2156번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/drinkingWine_2156.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/drinkingWine_2156.cpp) | 백준 동적 프로그래밍 (Silver I) |
