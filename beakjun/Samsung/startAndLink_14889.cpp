@@ -27,11 +27,9 @@ int graph[MAX_PLAYER][MAX_PLAYER];
 int totalPlayer;
 int minVal = 987654321;
 vector<int> group1;
-bool visited[MAX_PLAYER];
 
 void findMinDiff(int numPeople, int startNode) {
    group1.push_back(startNode);
-   visited[startNode] = true;
 
    if (numPeople == totalPlayer / 2) {
       vector<int> group2;
@@ -61,16 +59,12 @@ void findMinDiff(int numPeople, int startNode) {
    }
 
    for (int i = startNode + 1; i <= totalPlayer; i++) {
-      if (!visited[i]) {
-         findMinDiff(numPeople + 1, i);
-         group1.erase(remove(group1.begin(), group1.end(), i));
-         visited[i] = false;
-      }
+      findMinDiff(numPeople + 1, i);
+      group1.erase(remove(group1.begin(), group1.end(), i));
    }
 }
 
 int main(void) {
-   memset(visited, false, sizeof(visited));
    cin >> totalPlayer;
    for (int i = 1; i <= totalPlayer; i++) {
       for (int j = 1; j <= totalPlayer; j++) {
