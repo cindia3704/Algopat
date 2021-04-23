@@ -5,7 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 52 | 2021-04-24 | 스타트와 링크 (14889번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/solutions/startAndLink_14889.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/startAndLink_14889.cpp) | 백준 BFS/DFS (Silver III)|
+| 51 | 2021-04-24 | 스타트와 링크 (14889번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/solutions/startAndLink_14889.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/startAndLink_14889.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver III)|
 | 50 | 2021-04-24 | 바이러스 (2606번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/virus_2606.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/virus_2606.cpp) | 백준 BFS/DFS (Silver III)|
 | 49 | 2021-04-15 | 퇴사 (14501번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/solutions/retirement_14501.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/retirement_14501.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver IV)|
 | 48 | 2021-04-15 | 시험 감독 (13458번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/solutions/testInstructor_13458.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/testInstructor_13458.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Bronze II)|
