@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 54 | 2021-04-25 | 미로탐색 (2178번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/mazeSearch_2178.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/mazeSearch_2178.cpp) | 백준 BFS/DFS (Silver I)|
 | 53 | 2021-04-24 | A->B (16953번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/AtoB_16953.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/AtoB_16953.cpp) | 백준 BFS/DFS (Silver I)|
 | 52 | 2021-04-24 | 결혼식 (5567번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/wedding_5567.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/wedding_5567.cpp) | 백준 BFS/DFS (Silver I)|
 | 51 | 2021-04-24 | 스타트와 링크 (14889번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/solutions/startAndLink_14889.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/startAndLink_14889.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver III)|
