@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 56 | 2021-04-27 | 가장 큰 증가 부분 수열 (11055번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/biggestIncreasingSeq_11055.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/biggestIncreasingSeq_11055.cpp) | 백준 동적 프로그래밍 (Silver II) |
 | 55 | 2021-04-25 | 연구소 (14502번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/solutions/laboratory_14502.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/laboratory_14502.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V)|
 | 54 | 2021-04-25 | 미로탐색 (2178번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/mazeSearch_2178.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/mazeSearch_2178.cpp) | 백준 BFS/DFS (Silver I)|
 | 53 | 2021-04-24 | A->B (16953번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/AtoB_16953.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/AtoB_16953.cpp) | 백준 BFS/DFS (Silver I)|
