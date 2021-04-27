@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 58 | 2021-04-27 | 트리의 부모 찾기 (11725번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/alphabet_1986.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/alphabet_1986.cpp) | 백준 BFS/DFS (Gold IV)|
 | 57 | 2021-04-27 | 트리의 부모 찾기 (11725번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/findParent_11725.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/findParent_11725.cpp) | 백준 BFS/DFS (Silver II)|
 | 56 | 2021-04-27 | 가장 큰 증가 부분 수열 (11055번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/biggestIncreasingSeq_11055.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/biggestIncreaseingSeq_11055.cpp) | 백준 동적 프로그래밍 (Silver II) |
 | 55 | 2021-04-25 | 연구소 (14502번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/solutions/laboratory_14502.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/laboratory_14502.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V)|
