@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 60 | 2021-04-28 | 가장 긴 감소하는 부분 수열 (11722번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/longestDecreasingSeq_11722.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/longestDecreasingSeq_11722.cpp) | 백준 동적 프로그래밍 (Silver II) |
 | 59 | 2021-04-27 | 촌수계산 (2644번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/calcKinship_2644.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/calcKinship_2644.cpp) | 백준 BFS/DFS (Silver II)|
 | 58 | 2021-04-27 | 알파벳 (1987번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/alphabet_1987.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/alphabet_1987.cpp) | 백준 BFS/DFS (Gold IV)|
 | 57 | 2021-04-27 | 트리의 부모 찾기 (11725번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/findParent_11725.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/findParent_11725.cpp) | 백준 BFS/DFS (Silver II)|
