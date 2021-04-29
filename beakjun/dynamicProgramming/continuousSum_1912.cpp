@@ -1,6 +1,6 @@
 /*
     작성자: 김지수
-    작성일: 2021/04/14
+    작성일: 2021/04/29
     백준 -- 연속합 (1912번)
     문제:
     - n개의 정수로 이루어진 임의의 수열이 주어진다
@@ -17,7 +17,7 @@ using namespace std;
 const int MAX_N = 100000;
 int n;
 vector<int> seq;
-// idx 부터 계산할 때 가장 큰 연속 합
+// idx 까지 계산할 때 가장 큰 연속 합
 int cache[MAX_N];
 int maxSum = INT_MIN;
 
