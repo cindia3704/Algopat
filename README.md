@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 64 | 2021-05-04 | 토마토 (7576번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/tomato_7576.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/tomato_7576.cpp) | 백준 BFS/DFS (Silver I) |
 | 63 | 2021-04-29 | 숨바꼭질 (1697번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/hideAndSeek_1697.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/hideAndSeek_1697.cpp) | 백준 BFS/DFS (Silver I) |
 | 62 | 2021-04-29 | 연속합 (1912번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/continuousSum_1912.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/continuousSum_1912.cpp) | 백준 동적 프로그래밍 (Silver II) |
 | 61 | 2021-04-28 | 가장 긴 바이토닉 부분 수열 (11054번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/longestBitonicSeq_11054.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/longestBitonicSeq_11054.cpp) | 백준 동적 프로그래밍 (Gold III) |
