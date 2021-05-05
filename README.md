@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 66 | 2021-05-05 | 제곱수의 합 (1699번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/SumOfSquares_1699.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/SumOfSquares_1699.cpp) | 백준 동적 프로그래밍 (Silver III) |
 | 65 | 2021-05-04 | 계단 오르기 (2579번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/climbingStairs_2579.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/climbingStairs_2579.cpp) | 백준 동적 프로그래밍 (Silver III) |
 | 64 | 2021-05-04 | 토마토 (7576번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/tomato_7576.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/tomato_7576.cpp) | 백준 BFS/DFS (Silver I) |
 | 63 | 2021-04-29 | 숨바꼭질 (1697번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/hideAndSeek_1697.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/hideAndSeek_1697.cpp) | 백준 BFS/DFS (Silver I) |
