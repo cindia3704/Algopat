@@ -24,7 +24,7 @@
 
 using namespace std;
 
-int solution(vector<vector<int>> board, vector<int> moves) {
+int solution(vector<vector<int> > board, vector<int> moves) {
    vector<int> basket;
    int answer = 0;
    int height = board.size();
