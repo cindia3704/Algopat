@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 67 | 2021-05-07 | 크레인 인형 뽑기 [[풀이](https://github.com/cindia3704/Algopat/blob/main/programmers/Kakao/solutions/getDollFromCrane.md)]| [Python](https://github.com/cindia3704/Algopat/blob/main/programmers/Kakao/getDollFromCrane.cpp) | 프로그래머스 2019 카카오 개발자 겨울 인턴십 |
 | 66 | 2021-05-05 | 제곱수의 합 (1699번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/SumOfSquares_1699.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/SumOfSquares_1699.cpp) | 백준 동적 프로그래밍 (Silver III) |
 | 65 | 2021-05-04 | 계단 오르기 (2579번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/climbingStairs_2579.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/climbingStairs_2579.cpp) | 백준 동적 프로그래밍 (Silver III) |
 | 64 | 2021-05-04 | 토마토 (7576번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/solutions/tomato_7576.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/tomato_7576.cpp) | 백준 BFS/DFS (Silver I) |
@@ -69,5 +70,5 @@
 | 5 | 2021-02-24 | A+B-3 (10950번)| C++ | 백준 입출력 문제 (Bronze III) |
 | 4 | 2021-02-24 | A+B-2 (2558번)| C++ | 백준 입출력 문제 (Bronze V) |
 | 3 | 2021-02-24 | A+B (1000번) | C++ | 백준 입출력 문제 (Bronze V) |
-| 2 | 2021-01-30 | 신규 아이디 추천 | [Python](https://github.com/cindia3704/Algopat/blob/main/programmers/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C.py) | 프로그래머스 Kakao Blind Recruitment |
+| 2 | 2021-01-30 | 신규 아이디 추천 | [Python](https://github.com/cindia3704/Algopat/blob/main/programmers/Kakao/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C.py) | 프로그래머스 Kakao Blind Recruitment |
 | 1 | 2021-01-30 | 두 개 뽑아서 더하기 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0.cpp) | 프로그래머스 월간 코드 챌린지 시즌 1 |
