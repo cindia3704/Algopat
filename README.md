@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 70 | 2021-05-09 | 좌표 정렬하기 (11650번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/sortCoordinate_11650.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sortCoordinate_11650.cpp) | 백준 - (Silver V) |
 | 69 | 2021-05-09 | 수 정렬하기2 (2751번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/sortNum2_2751.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sortNum2_2751.cpp) | 백준 - (Silver V) |
 | 68 | 2021-05-08 | 튜플 [[풀이](https://github.com/cindia3704/Algopat/blob/main/programmers/Kakao/solutions/tuple.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/Kakao/tuple.cpp) | 프로그래머스 2019 카카오 개발자 겨울 인턴십 (LEVEL 2) |
 | 67 | 2021-05-07 | 크레인 인형 뽑기 [[풀이](https://github.com/cindia3704/Algopat/blob/main/programmers/Kakao/solutions/getDollFromCrane.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/Kakao/getDollFromCrane.cpp) | 프로그래머스 2019 카카오 개발자 겨울 인턴십 (LEVEL 1) |
