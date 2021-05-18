@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 73 | 2021-05-18 | 수 정렬하기 3 (10989번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/sortNum_3_10989.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sortNum_3_10989.cpp) | 백준 - (Silver V) |
 | 72 | 2021-05-09 | 나이순 정렬 (10814번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/sortByAge_10814.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sortByAge_10814.cpp) | 백준 - (Silver V) |
 | 71 | 2021-05-09 | 좌표 정렬하기2 (11651번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/sortCoordinate_11650.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sortCoordinate2_11651.cpp) | 백준 - (Silver V) |
 | 70 | 2021-05-09 | 좌표 정렬하기 (11650번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/sortCoordinate_11650.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sortCoordinate_11650.cpp) | 백준 - (Silver V) |
