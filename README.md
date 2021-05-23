@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 76 | 2021-05-23 | 알파벳 개수 (10808번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/countAlphabet_10808.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/countAlphabet_10808.cpp) | 백준 - (Bronze II) |
 | 75 | 2021-05-23 | 알파벳 찾기 (10809번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/findAlphabet_10809.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/findAlphabet_10809.cpp) | 백준 - (Bronze II) |
 | 74 | 2021-05-23 | 카드 (11652번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/card_11652.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/card_11652.cpp) | 백준 - (Silver IV) |
 | 73 | 2021-05-18 | 수 정렬하기 3 (10989번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/sortNum_3_10989.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sortNum_3_10989.cpp) | 백준 - (Silver V) |
