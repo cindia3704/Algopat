@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 81 | 2021-06-23 | 1로 만들기 2 (12852번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/make1_2_12852.cpp) | 백준 - (Silver I) |
 | 80 | 2021-06-23 | 양 (3184번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/sheep_3184.cpp) | 백준 - (Silver II) |
 | 79 | 2021-05-24 | 큐 (10845번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/queue_10845.cpp) | 백준 - (Silver IV) |
 | 78 | 2021-05-23 | 덱 (10866번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/deque_10866.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/deque_10866.cpp) | 백준 - (Silver IV) |
