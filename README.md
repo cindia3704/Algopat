@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 83 | 2021-06-25 | 인구 이동 (16234번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/populationMovement_16234.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V)|
 | 82 | 2021-06-25 | 섬의 개수 (4963번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/numberOfIsland_4963.cpp) | 백준 - (Silver II) |
 | 81 | 2021-06-23 | 1로 만들기 2 (12852번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/make1_2_12852.cpp) | 백준 - (Silver I) |
 | 80 | 2021-06-23 | 양 (3184번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/sheep_3184.cpp) | 백준 - (Silver II) |
