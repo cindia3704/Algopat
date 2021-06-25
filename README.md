@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 87 | 2021-06-25 | 맥주 마시면서 걸어가기 (9205번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/drinkBeerWhileWalking_9205.cpp) | 백준 BFS/DFS (Silver I) |
 | 86 | 2021-06-25 | 연구소 3 (17142번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/laboratory3_17142.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold IV)|
 | 85 | 2021-06-25 | 적록색약 (10026번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/redGreenColorBlind_10026.cpp) | 백준 BFS/DFS (Gold V) |
 | 84 | 2021-06-25 | 안전 영역 (2468번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/safeArea_2468.cpp) | 백준 BFS/DFS (Silver I) |
