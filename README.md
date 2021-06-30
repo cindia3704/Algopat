@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 90 | 2021-06-30 | 음식물 피하기 (1743번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/avoidProg_1743.cpp) | 백준 BFS/DFS (Silver I) |
 | 89 | 2021-06-27 | 단어 정렬 (1181번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sortWord_1181.cpp) | 백준 구현 (Silver V) |
 | 88 | 2021-06-26 | 빙산 (2573번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/iceberg_2573.cpp) | 백준 BFS/DFS (Gold IV) |
 | 87 | 2021-06-25 | 맥주 마시면서 걸어가기 (9205번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/drinkBeerWhileWalking_9205.cpp) | 백준 BFS/DFS (Silver I) |
