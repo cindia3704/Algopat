@@ -5,7 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 95 | 2021-07-24 | AC (5430번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/AC_5430.cpp) | 백준 구현 (Gold V) |
+| 95 | 2021-07-24 | AC (5430번)[[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/solutions/AC_5430.md) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/AC_5430.cpp) | 백준 구현 (Gold V) |
 | 94 | 2021-07-24 | 방 번호 (1475번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/roomNumber_1475.cpp) | 백준 구현 (Silver V) |
 | 93 | 2021-07-21 | 경로 찾기 (11403번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/findPath_11403.cpp) | 백준 BFS/DFS (Silver I) |
 | 92 | 2021-07-18 | 제로 (10733번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/zero_10773.cpp) | 백준 구현 (Silver IV) |
