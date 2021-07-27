@@ -60,7 +60,7 @@ int main(void) {
       graph[node1].push_back(node2);
       graph[node2].push_back(node1);
    }
-   for (int i = 0; i < totalNode; i++) {
+   for (int i = 0; i <= totalNode; i++) {
       sort(graph[i].begin(), graph[i].end());
    }
 
