@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 100 | 2021-08-12 | 아기상어 (16236번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/babyShark_16236.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold IV)|
 | 99 | 2021-08-12 | 근손실 (18429번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/muscleLost_18429.cpp) | 백준 구현 (Silver III) |
 | 98 | 2021-08-06 | 감시 (15683번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/watch_15683.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V)|
 | 97 | 2021-07-31 | 단어의 개수 (1152번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/wordCount_1152.cpp) | 백준 구현 (Bronze II) |
