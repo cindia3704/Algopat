@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 103 | 2021-08-13 | 정식당(17479번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/jungRestaurant_17479.cpp) | 백준 구현 (Silver III) |
 | 102 | 2021-08-13 | 행운의 바퀴(2840번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/luckyWheel_2840.cpp) | 백준 구현 (Silver IV) |
 | 101 | 2021-08-12 | 아기 상어2(17086번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/babyShark2_17086.cpp) | 백준 구현 (Silver II) |
 | 100 | 2021-08-12 | 아기 상어 (16236번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/babyShark_16236.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold IV)|
