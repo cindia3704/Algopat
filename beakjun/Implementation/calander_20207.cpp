@@ -20,7 +20,7 @@
 #include <cstring>
 #include <iostream>
 using namespace std;
-const int MAX_N = 1002;
+const int MAX_N = 1002;  // 0 나올때까지 봐서 1001 +1
 int calendar[MAX_N];
 
 int main(void) {
@@ -30,14 +30,15 @@ int main(void) {
 
    int scheduleNum;
    cin >> scheduleNum;
-   int maxDate = 0;
+   int maxDate = 0;  // 입력된 최대 날짜
    for (int i = 0; i < scheduleNum; i++) {
       int startDate, endDate;
       cin >> startDate >> endDate;
       if (endDate > maxDate) {
          maxDate = endDate;
       }
-      for (int day = startDate; day <= endDate; day++) {
+      for (int day = startDate; day <= endDate;
+           day++) {  // 해당 날짜에 있는 일정 수 적기
          calendar[day]++;
       }
    }
@@ -47,16 +48,18 @@ int main(void) {
    int end = 0;
    int maxNum = 0;
    for (int i = 0; i <= maxDate + 1; i++) {
-      if (calendar[i] > 0) {
-         if (start == 0) {
+      if (calendar[i] > 0) {  // 일정이 1개 이상
+         if (start == 0) {    // 새로 시작하는 직사각형
             start = i;
          }
       } else {
-         if (end < start) {
+         if (end < start) {  // 일정이 0개 -> 직사각형 끝
             end = i;
+            // 해당 날짜범위에서 일정이 가장 많은 날의 일정 수 찾기 (직사각형의
+            // 세로값)
             maxNum = *max_element(calendar + start, calendar + end);
             sum += (end - start) * maxNum;
-            start = 0;
+            start = 0;  // 새로운 직사각형 형성할 수 있게 0으로 초기화
          }
       }
    }
