@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 107 | 2021-08-18 | 오리(12933번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/duck_12933.cpp) | 백준 구현 (Silver V) |
 | 106 | 2021-08-16 | 마법사 상어와 비바라기 (21610번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/wizardSharkandRain_21610.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V)|
 | 105 | 2021-08-16 | 달력(20207번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/calander_20207.cpp) | 백준 구현 (Silver I) |
 | 104 | 2021-08-13 | 주지수(15724번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/villageSum_15724.cpp) | 백준 구현 (Silver I) |
