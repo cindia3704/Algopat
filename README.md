@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 110 | 2021-08-21 | 점화식(13699번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/recurrence_13699.cpp) | 백준 구현 (Silver IV) |
 | 109 | 2021-08-18 | A와 B 2(12919번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/aAndB2_12919.cpp) | 백준 구현 (Silver II) |
 | 108 | 2021-08-18 | 빗물(14719번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/rainwater_14719.cpp) | 백준 구현 (Gold V) |
 | 107 | 2021-08-18 | 오리(12933번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/duck_12933.cpp) | 백준 구현 (Silver V) |
