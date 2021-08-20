@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 112 | 2021-08-21 | 부분 문자열(16916번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/substring_16916.cpp) | 백준 구현 (Gold IV) |
 | 111 | 2021-08-21 | 작업(2056번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/work_2056.cpp) | 백준 구현 (Gold IV) |
 | 110 | 2021-08-21 | 점화식(13699번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/recurrence_13699.cpp) | 백준 구현 (Silver IV) |
 | 109 | 2021-08-18 | A와 B 2(12919번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/aAndB2_12919.cpp) | 백준 구현 (Silver II) |
