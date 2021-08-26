@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 115 | 2021-08-26 | 두 수의 합 (3273번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sumOfTwo_3273.cpp) | 백준 구현 (Silver III) |
 | 114 | 2021-08-26 | 퇴사 2(15486번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/retirement2_15486.cpp) | 백준 구현 (Silver I) |
 | 113 | 2021-08-21 | 단어 뒤집기 2(17413번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/flipWord2_17413.cpp) | 백준 구현 (Silver III) |
 | 112 | 2021-08-21 | 부분 문자열(16916번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/substring_16916.cpp) | 백준 구현 (Gold IV) |
