@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 119 | 2021-09-04 | 균형잡힌 세상 (4949번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/balancedWorld_4949.cpp) | 백준 구현 (Silver IV) |
 | 118 | 2021-09-04 | 크로아티아 알파벳 (2941번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/croatiaAlphabet_2941.cpp) | 백준 구현 (Silver V) |
 | 117 | 2021-09-03 | DNA (1969번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/DNA_1969.cpp) | 백준 구현 (Silver V) |
 | 116 | 2021-09-03 | 특정 거리의 도시 찾기 (18352번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/findCity_18352.cpp) | 백준 BFS/DFS (Silver II) |
