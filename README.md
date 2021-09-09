@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 123 | 2021-09-10 | 완전 이진 트리 (9934번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/totalBinaryTree_9934.cpp) | 백준 트리/그래프 문제 (Silver I) |
 | 122 | 2021-09-09 | 최단경로 (1753번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/shortestDistance_1753.cpp) | 백준 트리/그래프 문제 (Gold V) |
 | 121 | 2021-09-09 | 트리의 지름 (1967번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/treeDiameter_1967.cpp) | 백준 BFS/DFS (Gold IV) |
 | 120 | 2021-09-04 | 숫자 문자열과 영단어 (81301번) | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/Kakao/numberAndEnglish_81301.cpp) | 프로그래머스 2021 카카오 채용연계형 인턴십 (LEVEL 1) |
