@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 122 | 2021-09-09 | 최단경로 (1753번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/shortestDistance_1753.cpp) | 백준 트리/그래프 문제 (Gold V) |
 | 121 | 2021-09-09 | 트리의 지름 (1967번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/treeDiameter_1967.cpp) | 백준 BFS/DFS (Gold IV) |
 | 120 | 2021-09-04 | 숫자 문자열과 영단어 (81301번) | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/Kakao/numberAndEnglish_81301.cpp) | 프로그래머스 2021 카카오 채용연계형 인턴십 (LEVEL 1) |
 | 119 | 2021-09-04 | 균형잡힌 세상 (4949번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/balancedWorld_4949.cpp) | 백준 구현 (Silver IV) |
@@ -95,9 +96,9 @@
 | 34 | 2021-03-08 | 1로 만들기 (1463번) [[풀이](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/solutions/makeTo1_1463_solution.md)]| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/makeTo1_1463.cpp) | 백준 동적 프로그래밍 (Silver III) |
 | 33 | 2021-02-27 | 거스름돈 (5595번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/greedyAlgorithm/change_5595.cpp) | 백준 그리디 알고리즘 (Bronze II) |
 | 32 | 2021-02-27 | 설탕배달 (2839번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/greedyAlgorithm/sugarDelivery_2839.cpp) | 백준 그리디 알고리즘 (Bronze I) |
-| 31 | 2021-02-25 | 트리의 순회 (2263번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree/treeTraversal_2263.cpp) | 백준 트리 문제 (Gold III) |
+| 31 | 2021-02-25 | 트리의 순회 (2263번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/treeTraversal_2263.cpp) | 백준 트리/그래프 문제 (Gold III) |
 | 30 | 2021-02-25 | 스킬트리 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/skillTree.cpp) | 프로그래머스 써머/윈터 코딩 |
-| 29 | 2021-02-25 | 트리 순회 (1991번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree/treeTraversal_1991.cpp) | 백준 트리 문제 (Silver I) |
+| 29 | 2021-02-25 | 트리 순회 (1991번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/treeTraversal_1991.cpp) | 백준 트리/그래프 문제 (Silver I) |
 | 28 | 2021-02-25 | 트리 순회 순서 변경 (TRAVERSAL)| C++ | 종만북 트리 순회 |
 | 27 | 2021-02-25 | 별찍기-17 (10992번)| C++ | 백준 입출력 문제 (Bronze III) |
 | 26 | 2021-02-25 | 별찍기-16 (10991번)| C++ | 백준 입출력 문제 (Bronze III) |
