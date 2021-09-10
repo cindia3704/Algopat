@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 126 | 2021-09-10 | 수들의 합 2(2003번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sumOfNum_2003.cpp) | 백준 구현 (Silver III) |
 | 125 | 2021-09-10 | 월드컵 (6987번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/worldCup_6987.cpp) | 백준 구현 (Gold V) |
 | 124 | 2021-09-10 | 어두운건 무서워 (16507번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/scaredOfDarkness_16507.cpp) | 백준 구현 (Silver I) |
 | 123 | 2021-09-10 | 완전 이진 트리 (9934번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/totalBinaryTree_9934.cpp) | 백준 트리/그래프 문제 (Silver I) |
