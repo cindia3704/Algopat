@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 124 | 2021-09-10 | 어두운건 무서워 (16507번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/scaredOfDarkness_16507.cpp) | 백준 구현 (Silver I) |
 | 123 | 2021-09-10 | 완전 이진 트리 (9934번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/totalBinaryTree_9934.cpp) | 백준 트리/그래프 문제 (Silver I) |
 | 122 | 2021-09-09 | 최단경로 (1753번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/shortestDistance_1753.cpp) | 백준 트리/그래프 문제 (Gold V) |
 | 121 | 2021-09-09 | 트리의 지름 (1967번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/treeDiameter_1967.cpp) | 백준 BFS/DFS (Gold IV) |
