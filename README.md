@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 129 | 2021-09-12 | 공 넣기 (10810번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/goalIn_10810.cpp) | 백준 시뮬레이션/백트래킹 (Bronze II) |
 | 128 | 2021-09-11 | 회사에 있는 사람 (7785번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/inCompany_7785.cpp) | 백준 구현 (Silver V) |
 | 127 | 2021-09-11 | 듣보잡 (1764번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/didntHearOrSee_1764.cpp) | 백준 구현 (Silver IV) |
 | 126 | 2021-09-10 | 수들의 합 2(2003번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sumOfNum_2003.cpp) | 백준 구현 (Silver III) |
