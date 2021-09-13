@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 133 | 2021-09-13 | 기상캐스터 (10709번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/weatherCaster_10709.cpp) | 백준 시뮬레이션/백트래킹 (Silver V) |
 | 132 | 2021-09-13 | N과 M (2) (15650번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/NandM2_15650.cpp) | 백준 시뮬레이션/백트래킹 (Silver III) |
 | 131 | 2021-09-12 | N과 M (1) (15649번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/NandM1_15649.cpp) | 백준 시뮬레이션/백트래킹 (Silver III) |
 | 130 | 2021-09-12 | 프린터 큐 (1966번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/printerQueue_1966.cpp) | 백준 시뮬레이션/백트래킹 (Silver III) |
