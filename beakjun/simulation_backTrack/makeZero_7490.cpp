@@ -24,7 +24,9 @@ char op[3] = {'+', '-', '0'};
 vector<string> ans;
 
 void getCombination(int number, int depth, int sum, int nextNum) {
-   if (depth == (number * 2) - 1) {
+   if (depth ==
+       (number * 2) -
+           1) {  // 숫자 다음 연산자 나오는 형태니까 number*2-1이 최대 길이
       if (sum == 0) {
          string s = "";
          for (int i = 0; i < depth; i++) {
@@ -42,7 +44,8 @@ void getCombination(int number, int depth, int sum, int nextNum) {
    } else {
       if (depth % 2 == 0) {
          if (!visited[nextNum]) {
-            equation[depth] = (char)(nextNum + 48);
+            equation[depth] =
+                (char)(nextNum + 48);  // char ->int로 변경할때 +48 해줘야함
             visited[nextNum] = true;
             if (depth != 0) {
                if (equation[depth - 1] == '+') {
@@ -60,7 +63,9 @@ void getCombination(int number, int depth, int sum, int nextNum) {
                      num.append(ss.str());
                      t--;
                   }
+                  // 뒤에서부터 보니까 순서 뒤집어야함
                   reverse(num.begin(), num.end());
+                  // 지금까지 본 수 + 현재 수 해야해서 곱하기 10
                   int numFinal = stoi(num) * 10;
                   numFinal += nextNum;
                   char prevOp = equation[t];
@@ -69,9 +74,10 @@ void getCombination(int number, int depth, int sum, int nextNum) {
                      sum += numFinal;
                   } else if (prevOp == '-' && t > 0) {
                      sum += stoi(num);
-
                      sum -= numFinal;
                   } else {
+                     // 맨앞까지 오면 num 빼는게 아니라 그냥 0이라 생각하고 현재
+                     // 계산한계 합이 됨! (주의!!)
                      sum = numFinal;
                   }
                } else {
@@ -85,6 +91,7 @@ void getCombination(int number, int depth, int sum, int nextNum) {
          }
       } else {
          for (int i = 0; i < 3; i++) {
+            // 홀수번째 인덱스일때는 연산자 넣어줌
             equation[depth] = op[i];
             getCombination(number, depth + 1, sum, nextNum);
          }
@@ -102,11 +109,11 @@ int main(void) {
       int number;
       cin >> number;
       getCombination(number, 0, 0, 1);
-      sort(ans.begin(), ans.end());
+      sort(ans.begin(), ans.end());  // ascii 순서대로 출력해야해서
       for (int i = 0; i < ans.size(); i++) {
          cout << ans[i] << endl;
       }
       cout << endl;
-      ans.clear();
+      ans.clear();  // 각 testcase마다 결과 다르니!
    }
 }
