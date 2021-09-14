@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 135 | 2021-09-14 | N과 M (7) (15656번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/NandM7_15656.cpp) | 백준 시뮬레이션/백트래킹 (Silver III) |
 | 134 | 2021-09-14 | 마법사 상어와 파이어볼 (20056번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/wizardSharkAndFireball_20056.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V)|
 | 133 | 2021-09-13 | 기상캐스터 (10709번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/weatherCaster_10709.cpp) | 백준 시뮬레이션/백트래킹 (Silver V) |
 | 132 | 2021-09-13 | N과 M (2) (15650번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/NandM2_15650.cpp) | 백준 시뮬레이션/백트래킹 (Silver III) |
