@@ -38,3 +38,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+
+## JAVA
+*.class
+.class
