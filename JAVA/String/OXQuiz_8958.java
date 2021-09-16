@@ -31,5 +31,6 @@ public class OXQuiz_8958 {
             String quizResult = sc.next();
             System.out.println(getResult(quizResult));
         }
+        sc.close();
     }
 }

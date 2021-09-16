@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 139 | 2021-09-17 | 미로 만들기 (1347번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/makeMaze_1347.cpp) | 백준 시뮬레이션/백트래킹 (Silver IV) |
 | 138 | 2021-09-16 | OX 퀴즈 (8958번)| [Java](https://github.com/cindia3704/Algopat/blob/main/JAVA/String/OXQuiz_8958.java) | 백준 문자열 (Bronze II)|
 | 137 | 2021-09-15 | 퇴사 (14501번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/retire_14501.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver IV) 복습|
 | 136 | 2021-09-14 | 0 만들기 (7490번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/makeZero_7490.cpp) | 백준 시뮬레이션/백트래킹 (Gold V) |
