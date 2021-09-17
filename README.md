@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 142 | 2021-09-18 | 시험 감독 (13458번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/testInst_13458.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Bronze II) 복습|
 | 141 | 2021-09-18 | 테트로미노 (14500번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/tetromino_14500.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
 | 140 | 2021-09-18 | 스위키 켜고 끄기 (1244번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/onOffSwitch_1244.cpp) | 백준 시뮬레이션/백트래킹 (Silver IV) |
 | 139 | 2021-09-17 | 미로 만들기 (1347번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/makeMaze_1347.cpp) | 백준 시뮬레이션/백트래킹 (Silver IV) |
