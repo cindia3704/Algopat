@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 144 | 2021-09-18 | 진법 변환 (2745번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/changeBase_2745.cpp) | 백준 구현 (Bronze II) |
 | 143 | 2021-09-18 | 진법 변환 2 (11005번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/changeBase_11005.cpp) | 백준 구현 (Bronze I) |
 | 142 | 2021-09-18 | 시험 감독 (13458번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/testInst_13458.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Bronze II) 복습|
 | 141 | 2021-09-18 | 테트로미노 (14500번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/tetromino_14500.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
