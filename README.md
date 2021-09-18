@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 149 | 2021-09-19 | 구슬 탈출 2 (13460번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/marbleExit_13460.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold II) |
 | 148 | 2021-09-18 | 전화번호 목록 (5052번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/phoneBook_5052.cpp) | 백준 구현 (Gold IV) |
 | 147 | 2021-09-18 | - | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/tri.cpp) | Tri 기본! |
 | 146 | 2021-09-18 | 안테나 (18310번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/antena_18310.cpp) | 백준 구현 (Silver III) |
