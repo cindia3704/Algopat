@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 148 | 2021-09-18 | 전화번호 목록 (5052번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/phoneBook_5052.cpp) | 백준 구현 (Gold IV) |
 | 147 | 2021-09-18 | - | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/tri.cpp) | Tri 기본! |
 | 146 | 2021-09-18 | 안테나 (18310번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/antena_18310.cpp) | 백준 구현 (Silver III) |
 | 145 | 2021-09-18 | 수 찾기 (1920번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/findNumber_1920.cpp) | 백준 구현 (Silver IV) |
