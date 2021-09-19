@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 152 | 2021-09-19 | 없는 숫자 더하기 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/addNotExistingNum_86051.cpp) | 프로그래머스 (LEVEL 1) |
 | 151 | 2021-09-19 | 로또의 최고 순위와 최저 순위 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/lottoBestWorst_77484.cpp) | 프로그래머스 (LEVEL 1) |
 | 150 | 2021-09-19 | 순열 사이클 (10451번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/seqCycle_10451.cpp) | 백준 트리/그래프 문제 (Silver II) |
 | 149 | 2021-09-19 | 구슬 탈출 2 (13460번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/marbleExit_13460.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold II) |
