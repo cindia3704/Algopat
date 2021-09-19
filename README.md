@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 154 | 2021-09-19 | 피보나치 수 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level2/fibonacci_12945.cpp) | 프로그래머스 (LEVEL 2) |
 | 153 | 2021-09-19 | 키패드 누르기 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/pushKeypad_67256.cpp) | 프로그래머스 (LEVEL 1) |
 | 152 | 2021-09-19 | 없는 숫자 더하기 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/addNotExistingNum_86051.cpp) | 프로그래머스 (LEVEL 1) |
 | 151 | 2021-09-19 | 로또의 최고 순위와 최저 순위 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/lottoBestWorst_77484.cpp) | 프로그래머스 (LEVEL 1) |
