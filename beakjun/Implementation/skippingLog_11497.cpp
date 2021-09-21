@@ -10,6 +10,7 @@
 #include <vector>
 using namespace std;
 
+// 양 끝에 큰 수 -> 차례대로 중앙으로 올수록 작은수! -> 정렬하렴..
 int main(void) {
    ios::sync_with_stdio(false);
    cin.tie(0);
