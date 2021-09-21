@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 162 | 2021-09-22 | 통나무 건너뛰기 (11497번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/skippingLog_11497.cpp) | 백준 구현 (Silver I) |
 | 161 | 2021-09-22 | 모의고사 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/minMaxNum_12939.cpp) | 프로그래머스 (LEVEL 2) |
 | 160 | 2021-09-21 | 모의고사 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/spicier_42626.cpp) | 프로그래머스 (LEVEL 2) |
 | 159 | 2021-09-21 | 모의고사 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/mockTest_42840.cpp) | 프로그래머스 (LEVEL 1) |
