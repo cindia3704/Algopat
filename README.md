@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 165 | 2021-09-24 | K번째 수 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/kthNum_42748.cpp) | 프로그래머스 (LEVEL 1) |
 | 164 | 2021-09-22 | 체육복 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/peClothes_42862.cpp) | 프로그래머스 (LEVEL 1) |
 | 163 | 2021-09-22 | 피리 부는 사나이 (11497번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/pipedMan_16724.cpp) | 백준 구현 (Gold II) |
 | 162 | 2021-09-22 | 통나무 건너뛰기 (11497번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/skippingLog_11497.cpp) | 백준 구현 (Silver I) |
