@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 172 | 2021-09-26 | 짝지어 제거하기 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level2/removeByPair_12973.cpp) | 프로그래머스 (LEVEL 2) |
 | 171 | 2021-09-26 | 빛의 경로 사이클 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level2/lightPathCycle_86052.cpp) | 프로그래머스 (LEVEL 2) |
 | 170 | 2021-09-25 | 폰켓몬 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/ponketmon_1845.cpp) | 프로그래머스 (LEVEL 1) |
 | 169 | 2021-09-25 | 입국심사 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level3/entranceCheck_43238.cpp) | 프로그래머스 (LEVEL 3) |
