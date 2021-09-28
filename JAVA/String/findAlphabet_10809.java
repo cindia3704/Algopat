@@ -18,6 +18,7 @@ public class findAlphabet_10809 {
         for (int i : firstIndex) {
             System.out.print(i + " ");
         }
+        sc.close();
     }
 
 }

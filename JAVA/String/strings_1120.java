@@ -26,5 +26,6 @@ public class strings_1120 {
         int diff = input2.length() - input1.length();
         int answer = getLeastDiff(input1, input2, diff);
         System.out.println(answer);
+        sc.close();
     }
 }
