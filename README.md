@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 181 | 2021-09-29 | 정수 삼각형 (1932번)| [Java](https://github.com/cindia3704/Algopat/blob/main/JAVA/DP/IntTriangle_1932.java) [Java](https://github.com/cindia3704/Algopat/blob/main/JAVA/DP/IntTriangle_1932_BR.java)| 백준 구현 (Silver I)|
 | 180 | 2021-09-29 | 소트인사이드 (1427번)| [Java](https://github.com/cindia3704/Algopat/blob/main/JAVA/Implementation/sortInside_1427.java) | 백준 구현 (Silver V)|
 | 179 | 2021-09-29 | 바이러스 (2606번)| [Java](https://github.com/cindia3704/Algopat/blob/main/JAVA/Graph/Virus_2606.java) | 백준 그래프 (Silver III)|
 | 178 | 2021-09-29 | 후위 표기식 2 (1935번)| [Java](https://github.com/cindia3704/Algopat/blob/main/JAVA/Implementation/PostFixNotation_1935.java) | 백준 구현 (Silver III)|
