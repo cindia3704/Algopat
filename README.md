@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 188 | 2021-10-02 | 정수 삼각형 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level3/integerTriangle_43105.cpp) | 프로그래머스 (LEVEL 3) |
 | 187 | 2021-10-02 | 네트워크 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level3/network_43162.cpp) | 프로그래머스 (LEVEL 3) |
 | 186 | 2021-10-02 | 큰 수 구성하기 (18511번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/makeLargestNum_18511.cpp) | 백준 구현 (Silver V) |
 | 185 | 2021-10-02 | 기적의 매매법 (20546번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/miracleTrading_20546.cpp) | 백준 구현 (Bronze I) |
