@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 196 | 2021-10-04 | 차이를 최대로 (10819번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/biggestDifference_10819.cpp) | 백준 구현 (Silver II) |
 | 195 | 2021-10-03 | 순서쌍의 곱의 합 (13900번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/coordinateMult_13900.cpp) | 백준 구현 (Silver IV) |
 | 194 | 2021-10-03 | 오목 (2615번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/ohMok_2615.cpp) | 백준 구현 (Silver III) |
 | 193 | 2021-10-03 | 가장 큰 수 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level2/largestNumber_42746.cpp) | 프로그래머스 (LEVEL 2) |
