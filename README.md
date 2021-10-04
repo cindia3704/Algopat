@@ -5,7 +5,8 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 100 | 2021-10-05 | 킹 (1063번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/king_1063.cpp) | 백준 구현 (Silver IV) |
+| 201 | 2021-10-05 | 투명 (1531번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/invisible_1531.cpp) | 백준 시뮬레이션/백트래킹 (Silver V) |
+| 200 | 2021-10-05 | 킹 (1063번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/king_1063.cpp) | 백준 구현 (Silver IV) |
 | 199 | 2021-10-05 | 파일 정리 (20291번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/cleanFiles_20291.cpp) | 백준 구현 (Silver IV) |
 | 198 | 2021-10-04 | 거스름돈 (14916번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/change_14916.cpp) | 백준 구현 (Silver V) |
 | 197 | 2021-10-04 | 돌려 돌려 돌림판!(11504번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/turnable_11504.cpp) | 백준 구현 (Bronze I) |
