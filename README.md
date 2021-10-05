@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 208 | 2021-10-06 | 수 이어쓰기 (1515번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/writeNum_1515.cpp) | 백준 구현 (Silver IV) |
 | 207 | 2021-10-06 | 마법사 상어와 토네이도 (20057번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/wizardSharkAndTornado_20057.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold III) |
 | 206 | 2021-10-05 | 배열 합치기 (11728번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/combineArrays_11728.cpp) | 백준 구현 (Silver V) |
 | 205 | 2021-10-05 | 투표 (10040번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/vote_10040.cpp) | 백준 시뮬레이션/백트래킹 (Bronze II) |
