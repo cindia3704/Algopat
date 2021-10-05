@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 205 | 2021-10-05 | 투표 (10040번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/vote_10040.cpp) | 백준 시뮬레이션/백트래킹 (Bronze II) |
 | 204 | 2021-10-05 | 컨베이어 벨트 위의 로봇 (20055번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/conveyorBeltRobot_20055.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver I) |
 | 203 | 2021-10-05 | 연산자 끼워넣기 (14888번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/insertOperator_14888_review.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver I) 복습|
 | 202 | 2021-10-05 | 최소 힙 (14916번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/minHeap_1927.cpp) | 백준 구현 (Silver I) |
@@ -17,7 +18,7 @@
 | 195 | 2021-10-03 | 순서쌍의 곱의 합 (13900번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/coordinateMult_13900.cpp) | 백준 구현 (Silver IV) |
 | 194 | 2021-10-03 | 오목 (2615번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/ohMok_2615.cpp) | 백준 구현 (Silver III) |
 | 193 | 2021-10-03 | 가장 큰 수 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level2/largestNumber_42746.cpp) | 프로그래머스 (LEVEL 2) |
-| 192 | 2021-10-03 | 구간 합 구하기 4 (11660번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/rangeSum5_11660.cpp) | 백준 구현(prefix sum) (Silver I) |
+| 192 | 2021-10-03 | 구간 합 구하기 5 (11660번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/rangeSum5_11660.cpp) | 백준 구현(prefix sum) (Silver I) |
 | 191 | 2021-10-03 | 구간 합 구하기 4 (11659번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/rangeSum4_11659.cpp) | 백준 구현(prefix sum) (Silver III) |
 | 190 | 2021-10-03 | 부분합 (1806번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/subSum_1806.cpp) | 백준 구현(two pointer) (Gold IV) |
 | 189 | 2021-10-03 | 완주하지 못한 선수 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/playerNotFinished_42576.cpp) | 프로그래머스 (LEVEL 1) |
