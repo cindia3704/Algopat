@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 202 | 2021-10-05 | 최소 힙 (14916번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/minHeap_1927.cpp) | 백준 구현 (Silver I) |
 | 201 | 2021-10-05 | 투명 (1531번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/simulation_backTrack/invisible_1531.cpp) | 백준 시뮬레이션/백트래킹 (Silver V) |
 | 200 | 2021-10-05 | 킹 (1063번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/king_1063.cpp) | 백준 구현 (Silver IV) |
 | 199 | 2021-10-05 | 파일 정리 (20291번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/cleanFiles_20291.cpp) | 백준 구현 (Silver IV) |
