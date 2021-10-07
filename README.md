@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 211 | 2021-10-08 | 파도반 수열 (9461번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/waveSequence_9461.cpp) | 백준 구현 (Silver III) |
 | 210 | 2021-10-08 | 로봇 청소기 (14503번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/robotCleaner_14503.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
 | 209 | 2021-10-06 | 안녕 (1535번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/hi_1535.cpp) | 백준 구현 (Silver II) |
 | 208 | 2021-10-06 | 수 이어쓰기 (1515번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/writeNum_1515.cpp) | 백준 구현 (Silver IV) |
