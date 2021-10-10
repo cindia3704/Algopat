@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 215 | 2021-10-11 | 최소 스패닝 트리 (1197번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/mst_1197.cpp) | 백준 트리/그래프 문제 (Gold IV) - 크루스칼|
 | 214 | 2021-10-09 | 수열 (2559번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sequence_2559.cpp) | 백준 구현 (Silver III) |
 | 213 | 2021-10-09 | 겹치는 건 싫어 (20922번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/dontLikeDuplicate_20922.cpp) | 백준 구현 (Silver I) |
 | 212 | 2021-10-09 | 쉬운 최단거리 (14940번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/tree_graph/easyShortestPath_14940.cpp) | 백준 트리/그래프 문제 (Gold V) |
