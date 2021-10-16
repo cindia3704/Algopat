@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 220 | 2021-10-16 | 톱니바퀴 (14891번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/wheel_14891.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
 | 219 | 2021-10-15 | 이차원 배열과 연산 (17140번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/2dArrayCompute_17140.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold IV) |
 | 218 | 2021-10-13 | 미세먼지 안녕! (17144번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/byeDust_17144.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold IV) |
 | 217 | 2021-10-13 | 민균이의 비밀번호 (9933번) | [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/minGyunsPassword_9933.cpp) | 백준 구현 (Bronze I) |
