@@ -27,6 +27,7 @@ int calculatePoint() {
    return sum;
 }
 
+// 어떤 톱니바퀴 회전시키기 -> deque로 앞 / 뒤 빼면 됨!
 void turnWheel(int wheelNum, int dir) {
    if (dir == 1) {
       int temp = wheels[wheelNum][7];
@@ -39,7 +40,9 @@ void turnWheel(int wheelNum, int dir) {
    }
 }
 
+// 한 라운드마다 어떤 톱니바퀴를 어느방향으로 돌리면 되는지 turn 벡터에 저장
 void turnAll(int wheelNum, int dir) {
+   // 이때 이미 회전할거라고 넣어둔 톱니는 다시 안넣음 -> turned로 방문처리
    int nowR = 0, nowL = 0, next = 0, right = 0, left = 0;
    if (!turned[wheelNum]) {
       turned[wheelNum] = true;
@@ -116,11 +119,9 @@ void turnAll(int wheelNum, int dir) {
          if (nowL != next && !turned[wheelNum - 1]) {
             turned[wheelNum - 1] = true;
             if (dir == 1) {
-               //    turnWheel(wheelNum - 1, -1);
                turn.push_back(make_pair(wheelNum - 1, -1));
                turnAll(wheelNum - 1, -1);
             } else {
-               //    turnWheel(wheelNum - 1, 1);
                turn.push_back(make_pair(wheelNum - 1, 1));
                turnAll(wheelNum - 1, 1);
             }
@@ -130,6 +131,7 @@ void turnAll(int wheelNum, int dir) {
          break;
    }
 }
+
 int main(void) {
    ios::sync_with_stdio(false);
    cin.tie(0);
@@ -142,6 +144,7 @@ int main(void) {
       }
       wheels.push_back(dq);
    }
+
    int turnNum;
    cin >> turnNum;
    for (int i = 0; i < turnNum; i++) {
@@ -151,13 +154,18 @@ int main(void) {
    }
 
    for (int i = 0; i < turnNum; i++) {
+      // 매 라운드 마다 turned 초기화
       memset(turned, false, sizeof(turned));
       int wheelNum = turnInfo[i].first;
       int dir = turnInfo[i].second;
 
+      // 매 라운드마다 어떤 톱니 어디로 돌려야하는지 info 초기화
       turn.clear();
       turnAll(wheelNum, dir);
+      // turnAll에서 넣은 톱니 = 현재 톱니가 회전하면서 생기는 side effect들
+      // 현재 톱니도 돌려야하니 넣어주기
       turn.push_back(make_pair(wheelNum, dir));
+
       for (int i = 0; i < turn.size(); i++) {
          turnWheel(turn[i].first, turn[i].second);
       }
