@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 224 | 2021-10-23 | 스타트 택시 (19238번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/startTaxi_19238.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold IV) |
 | 223 | 2021-10-20 | 상어 초등학교 (21608번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/sharkElementary_21608.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver I) |
 | 222 | 2021-10-20 | 낚시왕 (17143번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/fisherKing_17143.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold II) |
 | 221 | 2021-10-19 | 마법사 상어와 파이어스톰 (20058번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/wizardAndFireStorm_20058.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold IV) |
