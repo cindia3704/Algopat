@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 227 | 2022-2-27 | 방 번호 (1475번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/roomNumber1_1475.cpp) | 구현- 백준 (Silver V) |
 | 226 | 2021-10-23 | 게리맨더링 2 (17779번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/garemandering2_17779.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold IV) |
 | 225 | 2021-10-23 | 연구소 (14502번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/lab1_14502.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) 복습|
 | 224 | 2021-10-23 | 스타트 택시 (19238번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/startTaxi_19238.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold IV) |
