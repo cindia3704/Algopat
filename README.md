@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 230 | 2022-03-05 | 셀프 넘버 (4673번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/selfNumber_4673.cpp) | 구현- 백준 (Silver V) |
 | 229 | 2022-03-05 | 알파벳 찾기 (10809번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/findAlphabetReview_10809.cpp) | 구현- 백준 (Silver III) |
 | 228 | 2022-03-05 | 후위 표기식2 (1935번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/postfixExpression_1935.cpp) | 구현- 백준 (Silver III) |
 | 227 | 2022-02-27 | 방 번호 (1475번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/roomNumber1_1475.cpp) | 구현- 백준 (Silver V) |
