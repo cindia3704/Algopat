@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 232 | 2022-03-06 | DFS와 BFS (1260번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/DFSandBFS_1260.cpp) | 백준 BFS/DFS (Silver II) |
 | 231 | 2022-03-05 | 2차원 배열의 합 (2167번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/2dArraySum_2167.cpp) | 구현- 백준 (Bronze I) |
 | 230 | 2022-03-05 | 셀프 넘버 (4673번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/selfNumber_4673.cpp) | 구현- 백준 (Silver V) |
 | 229 | 2022-03-05 | 알파벳 찾기 (10809번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/findAlphabetReview_10809.cpp) | 구현- 백준 (Silver III) |
