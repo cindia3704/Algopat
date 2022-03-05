@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 229 | 2022-03-05 | 알파벳 찾기 (10809번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/findAlphabetReview_10809.cpp) | 구현- 백준 (Silver III) |
 | 228 | 2022-03-05 | 후위 표기식2 (1935번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/postfixExpression_1935.cpp) | 구현- 백준 (Silver III) |
 | 227 | 2022-02-27 | 방 번호 (1475번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/roomNumber1_1475.cpp) | 구현- 백준 (Silver V) |
 | 226 | 2021-10-23 | 게리맨더링 2 (17779번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung/garemandering2_17779.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold IV) |
