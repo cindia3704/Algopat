@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 236 | 2022-03-06 | 유기농 배추 (1012번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/freshVege_1012.cpp) | 백준 BFS/DFS (Silver II) |
 | 235 | 2022-03-06 | 숫자 정사각형 (1051번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/numberSquare_1051.cpp) | 구현- 백준 (Silver III) |
 | 234 | 2022-03-06 | 영수증 (5565번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/receipt_5565.cpp) | 구현- 백준 (Bronze III) |
 | 233 | 2022-03-06 | 단지번호붙이기 (2667번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/numberingBuilding_2667.cpp) | 백준 BFS/DFS (Silver I) |
