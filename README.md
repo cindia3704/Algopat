@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 238 | 2022-03-07 | 효율적인 해킹 (1325번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/effectiveHacking_1325.cpp) | 백준 BFS/DFS (Silver I) |
 | 237 | 2022-03-07 | 영역 구하기 (2583번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/findArea_2583.cpp) | 백준 BFS/DFS (Silver I) |
 | 236 | 2022-03-06 | 유기농 배추 (1012번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/freshVege_1012.cpp) | 백준 BFS/DFS (Silver II) |
 | 235 | 2022-03-06 | 숫자 정사각형 (1051번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/numberSquare_1051.cpp) | 구현- 백준 (Silver III) |
