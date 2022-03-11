@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 243 | 2022-03-11 | Z (1074번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/Z_1074.cpp) | 구현- 백준 (Silver I) |
 | 242 | 2022-03-11 | 반복 수열 (2331번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/repetativeSeq_2331.cpp) | 구현- 백준 (Silver IV) |
 | 241 | 2022-03-11 | 통계학 (2108번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/statistics_2108.cpp) | 구현- 백준 (Silver III) |
 | 240 | 2022-03-11 | 집합 (11723번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/set_11723.cpp) | 구현- 백준 (Silver V) |
