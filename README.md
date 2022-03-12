@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 248 | 2022-03-13 | 나이트의 이동 (16953번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/knightsMove_7562.cpp) | 백준 BFS/DFS (Silver II) |
 | 247 | 2022-03-12 | 회의실 배정 (1931번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/meetingRoom_1931.cpp) | 구현- 백준 (Silver II) |
 | 246 | 2022-03-12 | 좌표압축 (18870번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/coorCompress_18870.cpp) | 구현- 백준 (Silver II) |
 | 245 | 2022-03-12 | ATM (11399번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/ATM_11399.cpp) | 구현- 백준 (Silver III) |
