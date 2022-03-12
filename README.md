@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 246 | 2022-03-12 | 좌표압축 (18870번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/coorCompress_18870.cpp) | 구현- 백준 (Silver II) |
 | 245 | 2022-03-12 | ATM (11399번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/ATM_11399.cpp) | 구현- 백준 (Silver III) |
 | 244 | 2022-03-12 | 최대 힙 (11279번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/maxHeap_11279.cpp) | 구현- 백준 (Silver II) |
 | 243 | 2022-03-11 | Z (1074번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/Z_1074.cpp) | 구현- 백준 (Silver I) |
