@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 250 | 2022-03-13 | 지름길 (1446번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/shortPath_1446.cpp) | 백준 BFS/DFS (Silver I) |
 | 249 | 2022-03-13 | 케빈 베이컨의 6단계 법칙 (1389번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/kevins6LevelLaw_1389.cpp) | 백준 BFS/DFS (Silver I) |
 | 248 | 2022-03-13 | 나이트의 이동 (16953번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/knightsMove_7562.cpp) | 백준 BFS/DFS (Silver II) |
 | 247 | 2022-03-12 | 회의실 배정 (1931번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/meetingRoom_1931.cpp) | 구현- 백준 (Silver II) |
