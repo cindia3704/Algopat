@@ -5,7 +5,8 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 252 | 2022-03-14 | 2차원 배열의 합 (2167번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sumOf2DArr_2167.cpp) | 누적 합- 백준 (Silver IV) |
+| 253 | 2022-03-14 | 귀찮아 (SIB) (14929번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sumOf2DArr_2167.cpp) | 누적 합- 백준 (Silver V) |
+| 252 | 2022-03-14 | 2차원 배열의 합 (2167번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sumOf2DArr_2167.cpp) | 누적 합- 백준 (Bronze I) |
 | 251 | 2022-03-13 | 달팽이 (1913번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/snail_1913.cpp) | 구현- 백준 (Silver IV) |
 | 250 | 2022-03-13 | 지름길 (1446번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/shortPath_1446.cpp) | 백준 BFS/DFS (Silver I) |
 | 249 | 2022-03-13 | 케빈 베이컨의 6단계 법칙 (1389번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/kevins6LevelLaw_1389.cpp) | 백준 BFS/DFS (Silver I) |
