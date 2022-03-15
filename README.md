@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 255 | 2022-03-15 | 상자의 균형 (20116번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/boxBalance_20116.cpp) | 누적 합- 백준 (Silver III) |
 | 254 | 2022-03-15 | 배열 놀이 (17123번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/arrayGame_17123.cpp) | 누적 합- 백준 (Silver II) |
 | 253 | 2022-03-14 | 귀찮아 (SIB) (14929번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sumOf2DArr_2167.cpp) | 누적 합- 백준 (Silver V) |
 | 252 | 2022-03-14 | 2차원 배열의 합 (2167번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sumOf2DArr_2167.cpp) | 누적 합- 백준 (Bronze I) |
