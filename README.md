@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 258 | 2022-03-16 | 돌 게임 (9655번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/rockGame_9655.cpp) | 백준 동적 프로그래밍 (Silver V) |
 | 257 | 2022-03-16 | 그림 (1926번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/DFS_BFS/picture_1926.cpp) | 백준 BFS/DFS (Silver I) |
 | 256 | 2022-03-15 | 빙고 (2578번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/bingo_2578.cpp) | 구현- 백준 (Silver V) |
 | 255 | 2022-03-15 | 상자의 균형 (20116번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/boxBalance_20116.cpp) | 누적 합- 백준 (Silver III) |
