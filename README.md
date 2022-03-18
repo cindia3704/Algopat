@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 257 | 2022-03-18 | 나무 자르기 (2805번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/cuttingTrees_2805.cpp) | 구현(이분탐색)- 백준 (Silver III) |
 | 256 | 2022-03-18 | 수들의 합 (1789번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Implementation/sumOfNums_1789.cpp) | 구현- 백준 (Silver V) |
 | 260 | 2022-03-18 | 연속합 (1912번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/seqSum_1912.cpp) | 백준 동적 프로그래밍 (Silver II) |
 | 259 | 2022-03-17 | 다리 놓기 (1010번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/dynamicProgramming/makeBridge_1010.cpp) | 백준 동적 프로그래밍 (Silver V) |
