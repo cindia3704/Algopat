@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 261 | 2022-04-03 | 퇴사 (14501번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/retirement_14501.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver III) |
 | 260 | 2022-03-30 | 치킨 배달 (15686번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/chickenDelivery_15686.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
 | 259 | 2022-03-28 | 연구소 (14502번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/lab_14502.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
 | 258 | 2022-03-18 | 기능 개발 | [C++](https://github.com/cindia3704/Algopat/blob/main/programmers/level1/devFunction_42586.cpp) | 프로그래머스 (LEVEL 2) |
