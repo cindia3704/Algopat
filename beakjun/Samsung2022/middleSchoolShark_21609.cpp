@@ -1,3 +1,9 @@
+/*
+	작성자: 김지수
+	작성일: 2022/04/13
+	백준 -- 상어중학교 
+	문제:
+*/
 #include <iostream>
 #include <cstring>
 #include <queue>
@@ -7,6 +13,7 @@
 #define BLACK -1
 #define RAINBOW 0
 #define EMPTY -2
+
 using namespace std;
 const int MAX = 21;
 const int dx[4] = { 0,1,0,-1 };
