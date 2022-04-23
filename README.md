@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 264 | 2022-04-23 | 상어초등학교 (21608번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/lowerSchoolShark_21608.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver I) |
 | 263 | 2022-04-20 | 뱀 (3190번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/snack_3190.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
 | 262 | 2022-04-14 | 나무 재테크 (16235번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/treeFinance_16235.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold IV) |
 | 261 | 2022-04-03 | 퇴사 (14501번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/retirement_14501.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Silver III) |
