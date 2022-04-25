@@ -19,17 +19,7 @@ vector<int> moveDir;
 int bnr[3] = {1, 2, 3};  // bottom, north, right
 int dice[6] = {0, 0, 0, 0, 0, 0};
 
-void printTop() {
-   //    cout << "\n=== BNR === " << endl;
-   //    for (int i = 0; i < 3; i++) {
-   //       cout << "bnr: " << bnr[i] << "  dice:" << dice[(bnr[i] - 1)] <<
-   //       endl;
-   //    }
-   //    for (int i = 0; i < 6; i++) {
-   //       cout << "i:" << i + 1 << "  dice:" << dice[i] << endl;
-   //    }
-   cout << dice[(7 - bnr[0]) - 1] << endl;
-}
+void printTop() { cout << dice[(7 - bnr[0]) - 1] << endl; }
 void moveDice(int turn) {
    int north = bnr[1];
    int bottom = bnr[0];
