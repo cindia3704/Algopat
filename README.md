@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 268 | 2022-04-29 | 컨베이어 벨트 위의 로봇 (20055번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/conveyorBelt_20055.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
 | 267 | 2022-04-28 | 주사위 윷놀이 (17825번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/diceGame_17825.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold II) |
 | 267 | 2022-04-26 | 원판 돌리기 (17822번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/rollingCircle_17822.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold III) |
 | 266 | 2022-04-25 | 주사위 굴리기 2 (23288번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/rollingDice2_23288.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold III) |
