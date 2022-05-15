@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 271 | 2022-05-15 | 미로 탐색 (1260번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/mazeSearch_2178.cpp) | 그래프 탐색 - 백준 (Silver I) |
 | 270 | 2022-05-15 | DFS와 BFS (1260번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/DFSBFS_1260.cpp) | 그래프 탐색 - 백준 (Silver II) |
 | 269 | 2022-04-29 | 테트로미노 (14500번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/tetromino_14500.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
 | 268 | 2022-04-29 | 컨베이어 벨트 위의 로봇 (20055번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/conveyorBelt_20055.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
