@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 274 | 2022-05-16 | 카드2 (2164번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/card2_2164.cpp) | 구현 - 백준 (Silver IV) |
 | 273 | 2022-05-16 | 점프 점프 (11060번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/jumpJump_11060.cpp) | DP - 백준 (Silver II) |
 | 272 | 2022-05-16 | 연결 요소의 개수 (11724번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/connectionComponent_11724.cpp) | 그래프 탐색 - 백준 (Silver II) |
 | 271 | 2022-05-15 | 미로 탐색 (1260번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/mazeSearch_2178.cpp) | 그래프 탐색 - 백준 (Silver I) |
