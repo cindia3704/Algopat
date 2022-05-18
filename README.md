@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 279 | 2022-05-18 | 모든 순열 (10974번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/everySequence_10974.cpp) | 백트레킹 - 백준 (Silver III) |
 | 278 | 2022-05-18 | N과 M(5) (15654번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM5_15654.cpp) | 백트레킹 - 백준 (Silver III) |
 | 277 | 2022-05-18 | N과 M(4) (15652번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM4_15652.cpp) | 백트레킹 - 백준 (Silver III) |
 | 276 | 2022-05-18 | N과 M(3) (15651번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM3_15651.cpp) | 백트레킹 - 백준 (Silver III) |
