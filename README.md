@@ -5,8 +5,9 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 281 | 2022-05-19 | 계단 오르기 (2579번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/climbingStairs_2579.cpp) | 백트레킹 - 백준 (Silver III) |
-| 280 | 2022-05-18 | 정수 삼각형 (1932번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NumTriangle_1932.cpp) | 백트레킹 - 백준 (Silver I) |
+| 282 | 2022-05-19 | 1로 만들기 (1463번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/makeOne_1463.cpp) | DP - 백준 (Silver III) |
+| 281 | 2022-05-19 | 계단 오르기 (2579번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/climbingStairs_2579.cpp) | DP - 백준 (Silver III) |
+| 280 | 2022-05-18 | 정수 삼각형 (1932번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NumTriangle_1932.cpp) | DP - 백준 (Silver I) |
 | 279 | 2022-05-18 | 모든 순열 (10974번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/everySequence_10974.cpp) | 백트레킹 - 백준 (Silver III) |
 | 278 | 2022-05-18 | N과 M(5) (15654번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM5_15654.cpp) | 백트레킹 - 백준 (Silver III) |
 | 277 | 2022-05-18 | N과 M(4) (15652번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM4_15652.cpp) | 백트레킹 - 백준 (Silver III) |
