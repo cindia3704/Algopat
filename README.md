@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 286 | 2022-06-05 | 부분수열의 합 (1187번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/sumOfPartSequence_1182.cpp) | 백트레킹 - 백준 (Silver II) |
 | 285 | 2022-06-05 | N과 M(8) (15657번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM8_15657.cpp) | 백트레킹 - 백준 (Silver III) |
 | 284 | 2022-06-05 | N과 M(7) (15656번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM7_15656.cpp) | 백트레킹 - 백준 (Silver III) |
 | 283 | 2022-06-05 | N과 M(6) (15655번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM6_15655.cpp) | 백트레킹 - 백준 (Silver III) |
