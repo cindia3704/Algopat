@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 284 | 2022-06-05 | N과 M(y) (15656번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM7_15656.cpp) | 백트레킹 - 백준 (Silver III) |
 | 283 | 2022-06-05 | N과 M(6) (15655번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM6_15655.cpp) | 백트레킹 - 백준 (Silver III) |
 | 282 | 2022-05-19 | 1로 만들기 (1463번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/makeOne_1463.cpp) | DP - 백준 (Silver III) |
 | 281 | 2022-05-19 | 계단 오르기 (2579번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/climbingStairs_2579.cpp) | DP - 백준 (Silver III) |
