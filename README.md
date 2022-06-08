@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 293 | 2022-06-08 | N과 M(11) (15665번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM11_15665.cpp) | 백트레킹 - 백준 (Silver II) |
 | 292 | 2022-06-08 | 암호 만들기 (1759번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/makingPassword_1759.cpp) | 백트레킹 - 백준 (Gold V) |
 | 291 | 2022-06-08 | N과 M(10) (15664번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM10_15664.cpp) | 백트레킹 - 백준 (Silver II) |
 | 290 | 2022-06-08 | 로또 (6603번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/lotto_6603.cpp) | 백트레킹 - 백준 (Silver II) |
