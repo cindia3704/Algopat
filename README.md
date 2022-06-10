@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 296 | 2022-06-11 | 가르침 (1062번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/teaching_1062.cpp) | 백트레킹 - 백준 (Gold IV) |
 | 295 | 2022-06-10 | N과 M(12) (15666번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM12_15666.cpp) | 백트레킹 - 백준 (Silver II) |
 | 294 | 2022-06-08 | 연산자 끼워넣기(2) (15658번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/insertingOperator2_15658.cpp) | 백트레킹 - 백준 (Silver II) |
 | 293 | 2022-06-08 | N과 M(11) (15665번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM11_15665.cpp) | 백트레킹 - 백준 (Silver II) |
