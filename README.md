@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 298 | 2022-06-11 | N-Queen (9663번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NQueen_9663.cpp) | 백트레킹 - 백준 (Gold IV) - 다시풀기 |
 | 297 | 2022-06-11 | 부등호 (2529번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/inequalitySign_2529.cpp) | 백트레킹 - 백준 (Silver II) |
 | 296 | 2022-06-11 | 가르침 (1062번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/teaching_1062.cpp) | 백트레킹 - 백준 (Gold IV) |
 | 295 | 2022-06-10 | N과 M(12) (15666번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM12_15666.cpp) | 백트레킹 - 백준 (Silver II) |
