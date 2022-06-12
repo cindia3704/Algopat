@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 302 | 2022-06-12 | 두 수의 합 (3273번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/SumOf2Nums_3273.cpp) | 배열 - 백준 (Silver III) |
 | 301 | 2022-06-12 | 방번호 (1475번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/roomNumber_1475.cpp) | 배열 - 백준 (Silver V) |
 | 300 | 2022-06-12 | 숫자의 개수 (2577번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/numCount_2577.cpp) | 배열 - 백준 (Bronze II) |
 | 299 | 2022-06-11 | 2048(Easy) (12100번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/2048Easy_12100.cpp) | 백트레킹 - 백준 (Gold II) - 삼성 SW 역량 테스트 기출문제 |
