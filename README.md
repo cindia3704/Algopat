@@ -5,7 +5,8 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 299 | 2022-06-11 | 2048(12100번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/2048Easy_12100.cpp) | 백트레킹 - 백준 (Gold II) - 삼성 SW 역량 테스트 기출문제 |
+| 300 | 2022-06-12 | 숫자의 개수 (2577번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/numCount_2577.cpp) | 배열 - 백준 (Bronze II) |
+| 299 | 2022-06-11 | 2048(Easy) (12100번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/2048Easy_12100.cpp) | 백트레킹 - 백준 (Gold II) - 삼성 SW 역량 테스트 기출문제 |
 | 298 | 2022-06-11 | N-Queen (9663번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NQueen_9663.cpp) | 백트레킹 - 백준 (Gold IV) - 다시풀기 |
 | 297 | 2022-06-11 | 부등호 (2529번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/inequalitySign_2529.cpp) | 백트레킹 - 백준 (Silver II) |
 | 296 | 2022-06-11 | 가르침 (1062번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/teaching_1062.cpp) | 백트레킹 - 백준 (Gold IV) |
