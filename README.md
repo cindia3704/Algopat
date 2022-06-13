@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 311 | 2022-06-14 | 스택 수열 (1874번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/stackSequence_1874.cpp) | 스택 - 백준 (Silver II) |
 | 310 | 2022-06-14 | 제로 (10773번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/zero_10773.cpp) | 스택 - 백준 (Silver IV) |
 | 309 | 2022-06-14 | 스택 (10828번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/stack_10828.cpp) | 스택 - 백준 (Silver IV) |
 | 308 | 2022-06-14 | 에디터 (1406번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/editor_1406.cpp) | 연결 리스트 - 백준 (Silver II) |
