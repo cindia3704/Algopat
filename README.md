@@ -5,7 +5,8 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 307 | 2022-06-13 | 계란으로 계란치기 (16987번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/hitEggWithEgg_16987.cpp) | 백트레킹 - 백준 (Silver I) |
+| 308 | 2022-06-14 | 에디터 (1406번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/editor_1406.cpp) | 연결 리스트 - 백준 (Silver II) |
+| 307 | 2022-06-14 | 계란으로 계란치기 (16987번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/hitEggWithEgg_16987.cpp) | 백트레킹 - 백준 (Silver I) |
 | 306 | 2022-06-13 | 애너그램 만들기 (1919번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/makingAnagram_1919.cpp) | 배열 - 백준 (Bronze II) |
 | 305 | 2022-06-13 | Strfry (11328번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/strfry_11328.cpp) | 배열 - 백준 (Bronze II) |
 | 304 | 2022-06-13 | 개수 세기 (10807번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/counting_10807.cpp) | 배열 - 백준 (Bronze V) |
