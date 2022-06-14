@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 314 | 2022-06-14 | 키로거 (5397번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/keyLogger_5397.cpp) | 연결 리스트 - 백준 (Silver II) |
 | 313 | 2022-06-14 | 오큰수 (2493번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/rightLargerNum_17298.cpp) | 스택 - 백준 (Gold IV) |
 | 312 | 2022-06-14 | 탑 (2493번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/stackSequence_1874.cpp) | 스택 - 백준 (Gold V) - 다시풀기 |
 | 311 | 2022-06-14 | 스택 수열 (1874번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/stackSequence_1874.cpp) | 스택 - 백준 (Silver II) |
