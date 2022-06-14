@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 317 | 2022-06-14 | 덱 (10866번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/deque_10866.cpp) | 덱 - 백준 (Silver IV) |
 | 316 | 2022-06-14 | 큐2 (18258번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/queue2_18258.cpp) | 큐 - 백준 (Silver IV) |
 | 315 | 2022-06-14 | 요세푸스 문제 (1158번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/yosepusProb_1158.cpp) | 연결 리스트 - 백준 (Silver IV) |
 | 314 | 2022-06-14 | 키로거 (5397번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/keyLogger_5397.cpp) | 연결 리스트 - 백준 (Silver II) |
