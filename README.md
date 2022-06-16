@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 326 | 2022-06-17 | 적록색약 (10026번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/redGreenColorBlind_10026.cpp) | BFS/DFS - 백준 (Gold V) |
 | 325 | 2022-06-17 | 미로탐색 (2178번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/searchMaze_2178.cpp) | BFS/DFS - 백준 (Silver I) |
 | 324 | 2022-06-17 | 연산자 끼워넣기 (14888번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/puttingOperator_14888.cpp) | 시뮬레이션 - 백준 (Silver I) |
 | 323 | 2022-06-17 | 그림 (1926번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/picture_1926.cpp) | BFS/DFS - 백준 (Silver I) |
