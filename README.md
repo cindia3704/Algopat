@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 330 | 2022-06-17 | 토마토 (7576번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/tomato_7576.cpp) | BFS/DFS - 백준 (Gold V) |
 | 329 | 2022-06-17 | 불 (5427번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/fire_5427.cpp) | BFS/DFS - 백준 (Gold IV) |
 | 328 | 2022-06-17 | 나이트의 이동 (7562번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/knightMove_7562.cpp) | BFS/DFS - 백준 (Silver I) |
 | 327 | 2022-06-17 | 토마토 (7569번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/tomato_7569.cpp) | BFS/DFS - 백준 (Gold V) |
