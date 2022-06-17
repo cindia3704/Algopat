@@ -5,13 +5,14 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 331 | 2022-06-17 | 연구소 (14502번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/laboratory_14502.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
 | 330 | 2022-06-17 | 토마토 (7576번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/tomato_7576.cpp) | BFS/DFS - 백준 (Gold V) |
 | 329 | 2022-06-17 | 불 (5427번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/fire_5427.cpp) | BFS/DFS - 백준 (Gold IV) |
 | 328 | 2022-06-17 | 나이트의 이동 (7562번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/knightMove_7562.cpp) | BFS/DFS - 백준 (Silver I) |
 | 327 | 2022-06-17 | 토마토 (7569번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/tomato_7569.cpp) | BFS/DFS - 백준 (Gold V) |
 | 326 | 2022-06-17 | 적록색약 (10026번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/redGreenColorBlind_10026.cpp) | BFS/DFS - 백준 (Gold V) |
 | 325 | 2022-06-17 | 미로탐색 (2178번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/searchMaze_2178.cpp) | BFS/DFS - 백준 (Silver I) |
-| 324 | 2022-06-17 | 연산자 끼워넣기 (14888번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/puttingOperator_14888.cpp) | 시뮬레이션 - 백준 (Silver I) |
+| 324 | 2022-06-17 | 연산자 끼워넣기 (14888번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/puttingOperator_14888.cpp) | 시뮬레이션 - 백준 (Silver I)- 삼성 SW 역량 테스트 기출문제 |
 | 323 | 2022-06-17 | 그림 (1926번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/picture_1926.cpp) | BFS/DFS - 백준 (Silver I) |
 | 322 | 2022-06-16 | 역원소 정렬 (5548번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/reverseSort_5648.cpp) | 정렬 - 백준 (Silver IV) |
 | 321 | 2022-06-16 | 유기농 배추 (1012번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/organicCabbage_1012.cpp) | BFS/DFS - 백준 (Silver II) |
