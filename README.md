@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 332 | 2022-06-17 | 영역 구하기 (2583번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/findingArea_2583.cpp) | BFS/DFS - 백준 (Silver I) |
 | 331 | 2022-06-17 | 연구소 (14502번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/laboratory_14502.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
 | 330 | 2022-06-17 | 토마토 (7576번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/tomato_7576.cpp) | BFS/DFS - 백준 (Gold V) |
 | 329 | 2022-06-17 | 불 (5427번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/fire_5427.cpp) | BFS/DFS - 백준 (Gold IV) |
