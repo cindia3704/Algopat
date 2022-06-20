@@ -1,6 +1,6 @@
 /*
     작성자: 김지수
-    작성일: 2022/06/19
+    작성일: 2022/06/20
     백준 -- 불! (4179번)
 */
 
@@ -102,7 +102,7 @@ int main(void){
     // 불 먼저 번짐 
     bfsFire(fy,fx);
     pair<bool, long long > ans = bfsJihoon(jy,jx);
-    
+
     if(ans.first == false){
         cout<<"IMPOSSIBLE";
     }else{
