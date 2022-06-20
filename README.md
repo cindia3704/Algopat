@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 335 | 2022-06-20 | 불! (4179번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/fire_4179.cpp) | BFS/DFS - 백준 (Gold IV) |
 | 334 | 2022-06-19 | 상범 빌딩 (6593번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/sangBumBuilding_6593.cpp) | BFS/DFS - 백준 (Gold V) |
 | 333 | 2022-06-19 | 스타트링크 (5014번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/startLink_5014.cpp) | BFS/DFS - 백준 (Gold V) |
 | 332 | 2022-06-17 | 영역 구하기 (2583번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/findingArea_2583.cpp) | BFS/DFS - 백준 (Silver I) |
