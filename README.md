@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 337 | 2022-06-21 | 단지번호붙이기 (2667번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/buildingNum_2667.cpp) | BFS/DFS - 백준 (Silver I) |
 | 336 | 2022-06-20 | 숨바꼭질 (1697번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/hideAndSeek_1697.cpp) | BFS/DFS - 백준 (Silver I) |
 | 335 | 2022-06-20 | 불! (4179번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/fire_4179.cpp) | BFS/DFS - 백준 (Gold IV) |
 | 334 | 2022-06-19 | 상범 빌딩 (6593번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/sangBumBuilding_6593.cpp) | BFS/DFS - 백준 (Gold V) |
