@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 346 | 2022-06-22 | 좌표 압푹 (18870번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/compressCoord_18870.cpp) | 이분탐색 - 백준 (Silver II) |
 | 345 | 2022-06-22 | 숫자 카드 2 (10816번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/findingNum_1920.cpp) | 이분탐색 - 백준 (Silver IV) |
 | 344 | 2022-06-22 | 수 찾기 (1920번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/findingNum_1920.cpp) | 이분탐색 - 백준 (Silver IV) |
 | 343 | 2022-06-21 | 빙산 (2573번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/iceburg_2573.cpp) | BFS/DFS - 백준 (Gold IV) |
