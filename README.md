@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 342 | 2022-06-21 | 시리얼 번호 (1431번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/serialNumber_1431.cpp) | 정렬 - 백준 (Silver III) |
 | 341 | 2022-06-21 | 다리 만들기 (2146번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/makingBridge_2146.cpp) | BFS/DFS - 백준 (Gold IV) |
 | 340 | 2022-06-21 | 숨바꼭질 3 (13549번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/hideAndSeek3_13549.cpp) | BFS/DFS - 백준 (Gold V) - 다시풀기 |
 | 339 | 2022-06-21 | 단어 정렬 (1181번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/sortWord_1181.cpp) | 정렬 - 백준 (Silver V) |
