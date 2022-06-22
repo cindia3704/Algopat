@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 348 | 2022-06-23 | 숫자 카드 (10815번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/numberCard_10815.cpp) | 이분탐색 - 백준 (Silver V) |
 | 347 | 2022-06-23 | 세 수의 합 (2295번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/sumOfThreeNums_2295.cpp) | 이분탐색 - 백준 (Gold IV) |
 | 346 | 2022-06-22 | 좌표 압푹 (18870번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/compressCoord_18870.cpp) | 이분탐색 - 백준 (Silver II) |
 | 345 | 2022-06-22 | 숫자 카드 2 (10816번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/findingNum_1920.cpp) | 이분탐색 - 백준 (Silver IV) |
