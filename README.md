@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 353 | 2022-06-24 | 스티커 붙이기 (18808번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/puttingSticker_18808.cpp) | 시뮬레이션 - 백준 (Gold III) |
 | 352 | 2022-06-24 | 로봇 청소기 (14503번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/roboticVacuum_14503.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
 | 351 | 2022-06-23 | 주사위 굴리기 (14499번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/rollingDice_14499.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제|
 | 350 | 2022-06-23 | 치킨 배달 (15686번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/chickenDelivery_15686.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
