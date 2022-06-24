@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 352 | 2022-06-24 | 로봇 청소기 (14503번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/roboticVacuum_14503.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
 | 351 | 2022-06-23 | 주사위 굴리기 (14499번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/rollingDice_14499.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제|
 | 350 | 2022-06-23 | 치킨 배달 (15686번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/chickenDelivery_15686.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
 | 349 | 2022-06-23 | 차집합 (1822번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/differnce_1822.cpp) | 이분탐색 - 백준 (Silver IV) |
