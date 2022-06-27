@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 358 | 2022-06-27 | 부분합 (1806번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/subSum_1806.cpp) | 투 포인터 - 백준 (Gold IV) |
 | 357 | 2022-06-27 | 수 고르기 (2230번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/selectingNumber_2230.cpp) | 투 포인터 - 백준 (Gold V) |
 | 356 | 2022-06-27 | Puyo Puyo (11559번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/puyoPuyo_11559.cpp) | 시뮬레이션 - 백준 (Gold IV) |
 | 355 | 2022-06-26 | 소문난 칠공주 (1941번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/famous7Princess_1941.cpp) | 백트래킹 - 백준 (Gold III) |
