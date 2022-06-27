@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 359 | 2022-06-28 | 뱀 (3190번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/snake_3190.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제|
 | 358 | 2022-06-27 | 부분합 (1806번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/subSum_1806.cpp) | 투 포인터 - 백준 (Gold IV) |
 | 357 | 2022-06-27 | 수 고르기 (2230번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/selectingNumber_2230.cpp) | 투 포인터 - 백준 (Gold V) |
 | 356 | 2022-06-27 | Puyo Puyo (11559번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/puyoPuyo_11559.cpp) | 시뮬레이션 - 백준 (Gold IV) |
