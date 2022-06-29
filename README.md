@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 365 | 2022-06-29 | 1,2,3 더하기 (9095번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/123addition_9095.cpp) | DP - 백준 (Silver III) |
 | 364 | 2022-06-29 | 1로 만들기 (1463번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/make1_1463.cpp) | DP - 백준 (Silver III) |
 | 363 | 2022-06-29 | 경사로 (14890번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/uphill_14890.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제|
 | 362 | 2022-06-29 | 스타트와 링크 (14889번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/startAndLink_14889.cpp) | 시뮬레이션 - 백준 (Silver II)- 삼성 SW 역량 테스트 기출문제|
