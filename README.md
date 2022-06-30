@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 367 | 2022-06-30 | RGB 거리 (1149번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/RGBStreet_1149.cpp) | DP - 백준 (Silver I) |
 | 366 | 2022-06-29 | 계단 오르기 (2579번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/climbingStair_2579.cpp) | DP - 백준 (Silver III) |
 | 365 | 2022-06-29 | 1,2,3 더하기 (9095번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/123addition_9095.cpp) | DP - 백준 (Silver III) |
 | 364 | 2022-06-29 | 1로 만들기 (1463번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/make1_1463.cpp) | DP - 백준 (Silver III) |
