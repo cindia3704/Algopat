@@ -5,7 +5,8 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 371 | 2022-07-05 | 감소하는 수 (1038번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/decreasingNum_1038.cpp) | 백트래킹 - 백준 (Gold V) |
+| 372 | 2022-07-05 | 인구 이동 (16234번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/populationMove_16234.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
+| 371 | 2022-07-05 | 감소하는 수 (1038번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/decreasingNum_1038.cpp) | 백트래킹 - 백준 (Gold V) - 다시풀기 |
 | 370 | 2022-06-30 | 테트로미노 (14500번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/tetromino_14500.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
 | 369 | 2022-06-30 | 구간 합 구하기 4 (11659번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/findRangeSum4_11659.cpp) | DP/누적합 - 백준 (Silver III) |
 | 368 | 2022-06-30 | 2xn 타일링 (11726번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/2nTiling_11726.cpp) | DP - 백준 (Silver III) |
