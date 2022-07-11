@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 375 | 2022-07-11 | 아기 상어 (16236번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/babyShark_16236.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제 |
 | 374 | 2022-07-11 | 에너지 모으기 (16198번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/collectingEnergy_16198.cpp) | 백트레킹 - 백준 (Silver I) |
 | 373 | 2022-07-11 | 넴모넴모(Easy) (14712번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/nemonemoEasy_14712.cpp) | 시뮬레이션 - 백준 (Silver I) |
 | 372 | 2022-07-05 | 인구 이동 (16234번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/populationMove_16234.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
