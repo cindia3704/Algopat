@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 381 | 2022-07-12 | Z (1074번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/Z_1074.cpp) | 재귀 - 백준 (Silver I) |
 | 380 | 2022-07-12 | 감시 피하기 (18428번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/avoidSurveillance_18428.cpp) | 백트레킹 - 백준 (Silver I) |
 | 379 | 2022-07-12 | 감시 (15683번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/surveillance_15683.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제 - 다시풀기 |
 | 378 | 2022-07-12 | ⚾ (17281번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/baseball_17281.cpp) | 시뮬레이션 - 백준 (Gold IV) |
