@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 383 | 2022-07-13 | 보물섬 (2589번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/treasureIsland_2589.cpp) | BFS/DFS - 백준 (Gold V) |
 | 382 | 2022-07-13 | 데스 나이트 (16948번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/deathKnight_16948.cpp) | BFS/DFS - 백준 (Silver I) |
 | 381 | 2022-07-12 | Z (1074번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/Z_1074.cpp) | 재귀 - 백준 (Silver I) |
 | 380 | 2022-07-12 | 감시 피하기 (18428번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/avoidSurveillance_18428.cpp) | 백트레킹 - 백준 (Silver I) |
