@@ -5,123 +5,123 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 386 | 2022-07-13 | 사다리 조작 (15684번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/ladderControl_15684.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제 - 다시풀기 |
-| 385 | 2022-07-13 | 탈출 (3055번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/exit_3055.cpp) | BFS/DFS - 백준 (Gold IV) |
-| 384 | 2022-07-13 | 스도쿠 (2239번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/sudoku_2239.cpp) | 백트레킹 - 백준 (Gold IV) |
-| 383 | 2022-07-13 | 보물섬 (2589번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/treasureIsland_2589.cpp) | BFS/DFS - 백준 (Gold V) |
-| 382 | 2022-07-13 | 데스 나이트 (16948번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/deathKnight_16948.cpp) | BFS/DFS - 백준 (Silver I) |
-| 381 | 2022-07-12 | Z (1074번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/Z_1074.cpp) | 재귀 - 백준 (Silver I) |
-| 380 | 2022-07-12 | 감시 피하기 (18428번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/avoidSurveillance_18428.cpp) | 백트레킹 - 백준 (Silver I) |
-| 379 | 2022-07-12 | 감시 (15683번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/surveillance_15683.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제 - 다시풀기 |
-| 378 | 2022-07-12 | ⚾ (17281번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/baseball_17281.cpp) | 시뮬레이션 - 백준 (Gold IV) |
-| 377 | 2022-07-12 | 하노이 탑 이동 순서 (11729번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/hanoiTower_11729.cpp) | 재귀 - 백준 (Silver I) - 다시풀기 |
-| 376 | 2022-07-12 | 곱셈 (1629번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/multiplication_1629.cpp) | 재귀 - 백준 (Silver I) - 다시풀기 |
-| 375 | 2022-07-11 | 아기 상어 (16236번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/babyShark_16236.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제 |
-| 374 | 2022-07-11 | 에너지 모으기 (16198번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/collectingEnergy_16198.cpp) | 백트레킹 - 백준 (Silver I) |
-| 373 | 2022-07-11 | 넴모넴모(Easy) (14712번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/nemonemoEasy_14712.cpp) | 시뮬레이션 - 백준 (Silver I) |
-| 372 | 2022-07-05 | 인구 이동 (16234번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/populationMove_16234.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
-| 371 | 2022-07-05 | 감소하는 수 (1038번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/decreasingNum_1038.cpp) | 백트래킹 - 백준 (Gold V) - 다시풀기 |
-| 370 | 2022-06-30 | 테트로미노 (14500번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/tetromino_14500.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
-| 369 | 2022-06-30 | 구간 합 구하기 4 (11659번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/findRangeSum4_11659.cpp) | DP/누적합 - 백준 (Silver III) |
-| 368 | 2022-06-30 | 2xn 타일링 (11726번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/2nTiling_11726.cpp) | DP - 백준 (Silver III) |
-| 367 | 2022-06-30 | RGB 거리 (1149번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/RGBStreet_1149.cpp) | DP - 백준 (Silver I) |
-| 366 | 2022-06-29 | 계단 오르기 (2579번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/climbingStair_2579.cpp) | DP - 백준 (Silver III) |
-| 365 | 2022-06-29 | 1,2,3 더하기 (9095번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/123addition_9095.cpp) | DP - 백준 (Silver III) |
-| 364 | 2022-06-29 | 1로 만들기 (1463번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/make1_1463.cpp) | DP - 백준 (Silver III) |
-| 363 | 2022-06-29 | 경사로 (14890번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/uphill_14890.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제|
-| 362 | 2022-06-29 | 스타트와 링크 (14889번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/startAndLink_14889.cpp) | 시뮬레이션 - 백준 (Silver II)- 삼성 SW 역량 테스트 기출문제|
-| 361 | 2022-06-29 | 톱니바퀴 (14891번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/gearWheel_14891.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
-| 360 | 2022-06-29 | 트럭 (13335번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/truck_13335.cpp) | 시뮬레이션 - 백준 (Silver I) |
-| 359 | 2022-06-28 | 뱀 (3190번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/snake_3190.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제|
-| 358 | 2022-06-27 | 부분합 (1806번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/subSum_1806.cpp) | 투 포인터 - 백준 (Gold IV) |
-| 357 | 2022-06-27 | 수 고르기 (2230번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/selectingNumber_2230.cpp) | 투 포인터 - 백준 (Gold V) |
-| 356 | 2022-06-27 | Puyo Puyo (11559번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/puyoPuyo_11559.cpp) | 시뮬레이션 - 백준 (Gold IV) |
-| 355 | 2022-06-26 | 소문난 칠공주 (1941번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/famous7Princess_1941.cpp) | 백트래킹 - 백준 (Gold III) |
-| 354 | 2022-06-26 | Gaaaaaaaaaarden (18809번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/Gaaaaaaaaaarden_18809.cpp) | 백트래킹 - 백준 (Gold I) |
-| 353 | 2022-06-24 | 스티커 붙이기 (18808번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/puttingSticker_18808.cpp) | 시뮬레이션 - 백준 (Gold III) |
-| 352 | 2022-06-24 | 로봇 청소기 (14503번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/roboticVacuum_14503.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
-| 351 | 2022-06-23 | 주사위 굴리기 (14499번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/rollingDice_14499.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제|
-| 350 | 2022-06-23 | 치킨 배달 (15686번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/chickenDelivery_15686.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
-| 349 | 2022-06-23 | 차집합 (1822번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/differnce_1822.cpp) | 이분탐색 - 백준 (Silver IV) |
-| 348 | 2022-06-23 | 숫자 카드 (10815번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/numberCard_10815.cpp) | 이분탐색 - 백준 (Silver V) |
-| 347 | 2022-06-23 | 세 수의 합 (2295번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/sumOfThreeNums_2295.cpp) | 이분탐색 - 백준 (Gold IV) |
-| 346 | 2022-06-22 | 좌표 압푹 (18870번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/compressCoord_18870.cpp) | 이분탐색 - 백준 (Silver II) |
-| 345 | 2022-06-22 | 숫자 카드 2 (10816번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/findingNum_1920.cpp) | 이분탐색 - 백준 (Silver IV) |
-| 344 | 2022-06-22 | 수 찾기 (1920번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/findingNum_1920.cpp) | 이분탐색 - 백준 (Silver IV) |
-| 343 | 2022-06-21 | 빙산 (2573번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/iceburg_2573.cpp) | BFS/DFS - 백준 (Gold IV) |
-| 342 | 2022-06-21 | 시리얼 번호 (1431번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/serialNumber_1431.cpp) | 정렬 - 백준 (Silver III) |
-| 341 | 2022-06-21 | 다리 만들기 (2146번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/makingBridge_2146.cpp) | BFS/DFS - 백준 (Gold IV) |
-| 340 | 2022-06-21 | 숨바꼭질 3 (13549번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/hideAndSeek3_13549.cpp) | BFS/DFS - 백준 (Gold V) - 다시풀기 |
-| 339 | 2022-06-21 | 단어 정렬 (1181번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/sortWord_1181.cpp) | 정렬 - 백준 (Silver V) |
-| 338 | 2022-06-21 | 벽 부수고 이동하기 (2206번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/breakingWallandMove_2206.cpp) | BFS/DFS - 백준 (Gold IV) - 다시풀기 |
-| 337 | 2022-06-21 | 단지번호붙이기 (2667번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/buildingNum_2667.cpp) | BFS/DFS - 백준 (Silver I) |
-| 336 | 2022-06-20 | 숨바꼭질 (1697번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/hideAndSeek_1697.cpp) | BFS/DFS - 백준 (Silver I) |
-| 335 | 2022-06-20 | 불! (4179번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/fire_4179.cpp) | BFS/DFS - 백준 (Gold IV) |
-| 334 | 2022-06-19 | 상범 빌딩 (6593번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/sangBumBuilding_6593.cpp) | BFS/DFS - 백준 (Gold V) |
-| 333 | 2022-06-19 | 스타트링크 (5014번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/startLink_5014.cpp) | BFS/DFS - 백준 (Gold V) |
-| 332 | 2022-06-17 | 영역 구하기 (2583번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/findingArea_2583.cpp) | BFS/DFS - 백준 (Silver I) |
-| 331 | 2022-06-17 | 연구소 (14502번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/laboratory_14502.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
-| 330 | 2022-06-17 | 토마토 (7576번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/tomato_7576.cpp) | BFS/DFS - 백준 (Gold V) |
-| 329 | 2022-06-17 | 불 (5427번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/fire_5427.cpp) | BFS/DFS - 백준 (Gold IV) |
-| 328 | 2022-06-17 | 나이트의 이동 (7562번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/knightMove_7562.cpp) | BFS/DFS - 백준 (Silver I) |
-| 327 | 2022-06-17 | 토마토 (7569번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/tomato_7569.cpp) | BFS/DFS - 백준 (Gold V) |
-| 326 | 2022-06-17 | 적록색약 (10026번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/redGreenColorBlind_10026.cpp) | BFS/DFS - 백준 (Gold V) |
-| 325 | 2022-06-17 | 미로탐색 (2178번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/searchMaze_2178.cpp) | BFS/DFS - 백준 (Silver I) |
-| 324 | 2022-06-17 | 연산자 끼워넣기 (14888번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/puttingOperator_14888.cpp) | 시뮬레이션 - 백준 (Silver I)- 삼성 SW 역량 테스트 기출문제 |
-| 323 | 2022-06-17 | 그림 (1926번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/picture_1926.cpp) | BFS/DFS - 백준 (Silver I) |
-| 322 | 2022-06-16 | 역원소 정렬 (5548번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/reverseSort_5648.cpp) | 정렬 - 백준 (Silver IV) |
-| 321 | 2022-06-16 | 유기농 배추 (1012번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/organicCabbage_1012.cpp) | BFS/DFS - 백준 (Silver II) |
-| 320 | 2022-06-15 | 비숍 (1799번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/bishop_1799.cpp) | 백트레킹 - 백준 (Gold I) - 다시풀기 |
-| 319 | 2022-06-15 | 최솟값 찾기 (11003번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/findingMin_11003.cpp) | 덱 - 백준 (Gold I) - 다시풀기 |
-| 318 | 2022-06-15 | 회전하는 큐 (1021번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/rotatingQueue_1021.cpp) | 덱 - 백준 (Silver IV) |
-| 317 | 2022-06-14 | 덱 (10866번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/deque_10866.cpp) | 덱 - 백준 (Silver IV) |
-| 316 | 2022-06-14 | 큐2 (18258번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/queue2_18258.cpp) | 큐 - 백준 (Silver IV) |
-| 315 | 2022-06-14 | 요세푸스 문제 (1158번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/yosepusProb_1158.cpp) | 연결 리스트 - 백준 (Silver IV) |
-| 314 | 2022-06-14 | 키로거 (5397번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/keyLogger_5397.cpp) | 연결 리스트 - 백준 (Silver II) |
-| 313 | 2022-06-14 | 오큰수 (2493번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/rightLargerNum_17298.cpp) | 스택 - 백준 (Gold IV) |
-| 312 | 2022-06-14 | 탑 (2493번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/stackSequence_1874.cpp) | 스택 - 백준 (Gold V) - 다시풀기 |
-| 311 | 2022-06-14 | 스택 수열 (1874번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/stackSequence_1874.cpp) | 스택 - 백준 (Silver II) |
-| 310 | 2022-06-14 | 제로 (10773번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/zero_10773.cpp) | 스택 - 백준 (Silver IV) |
-| 309 | 2022-06-14 | 스택 (10828번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/stack_10828.cpp) | 스택 - 백준 (Silver IV) |
-| 308 | 2022-06-14 | 에디터 (1406번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/editor_1406.cpp) | 연결 리스트 - 백준 (Silver II) |
-| 307 | 2022-06-14 | 계란으로 계란치기 (16987번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/hitEggWithEgg_16987.cpp) | 백트레킹 - 백준 (Silver I) |
-| 306 | 2022-06-13 | 애너그램 만들기 (1919번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/makingAnagram_1919.cpp) | 배열 - 백준 (Bronze II) |
-| 305 | 2022-06-13 | Strfry (11328번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/strfry_11328.cpp) | 배열 - 백준 (Bronze II) |
-| 304 | 2022-06-13 | 개수 세기 (10807번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/counting_10807.cpp) | 배열 - 백준 (Bronze V) |
-| 303 | 2022-06-13 | 알파벳 개수 (10808번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/alphabetCount_10808.cpp) | 배열 - 백준 (Bronze IV) |
-| 302 | 2022-06-12 | 두 수의 합 (3273번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/SumOf2Nums_3273.cpp) | 배열 - 백준 (Silver III) |
-| 301 | 2022-06-12 | 방번호 (1475번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/roomNumber_1475.cpp) | 배열 - 백준 (Silver V) |
-| 300 | 2022-06-12 | 숫자의 개수 (2577번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/numCount_2577.cpp) | 배열 - 백준 (Bronze II) |
-| 299 | 2022-06-11 | 2048(Easy) (12100번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/2048Easy_12100.cpp) | 백트레킹 - 백준 (Gold II) - 삼성 SW 역량 테스트 기출문제 |
-| 298 | 2022-06-11 | N-Queen (9663번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NQueen_9663.cpp) | 백트레킹 - 백준 (Gold IV) - 다시풀기 |
-| 297 | 2022-06-11 | 부등호 (2529번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/inequalitySign_2529.cpp) | 백트레킹 - 백준 (Silver II) |
-| 296 | 2022-06-11 | 가르침 (1062번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/teaching_1062.cpp) | 백트레킹 - 백준 (Gold IV) |
-| 295 | 2022-06-10 | N과 M(12) (15666번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM12_15666.cpp) | 백트레킹 - 백준 (Silver II) |
-| 294 | 2022-06-08 | 연산자 끼워넣기(2) (15658번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/insertingOperator2_15658.cpp) | 백트레킹 - 백준 (Silver II) |
-| 293 | 2022-06-08 | N과 M(11) (15665번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM11_15665.cpp) | 백트레킹 - 백준 (Silver II) |
-| 292 | 2022-06-08 | 암호 만들기 (1759번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/makingPassword_1759.cpp) | 백트레킹 - 백준 (Gold V) |
-| 291 | 2022-06-08 | N과 M(10) (15664번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM10_15664.cpp) | 백트레킹 - 백준 (Silver II) |
-| 290 | 2022-06-08 | 로또 (6603번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/lotto_6603.cpp) | 백트레킹 - 백준 (Silver II) |
-| 289 | 2022-06-08 | 1,2,3 더하기 2 (12101번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/123Addition2_12101.cpp) | 백트레킹 - 백준 (Silver I) |
-| 288 | 2022-06-08 | N과 M(9) (15663번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM9_15663.cpp) | 백트레킹 - 백준 (Silver II) |
-| 287 | 2022-06-05 | 외판원 순회2 (10971번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/travelingSalesmanProblem2_10971.cpp) | 백트레킹 - 백준 (Silver II) |
-| 286 | 2022-06-05 | 부분수열의 합 (1187번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/sumOfPartSequence_1182.cpp) | 백트레킹 - 백준 (Silver II) |
-| 285 | 2022-06-05 | N과 M(8) (15657번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM8_15657.cpp) | 백트레킹 - 백준 (Silver III) |
-| 284 | 2022-06-05 | N과 M(7) (15656번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM7_15656.cpp) | 백트레킹 - 백준 (Silver III) |
-| 283 | 2022-06-05 | N과 M(6) (15655번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM6_15655.cpp) | 백트레킹 - 백준 (Silver III) |
-| 282 | 2022-05-19 | 1로 만들기 (1463번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/makeOne_1463.cpp) | DP - 백준 (Silver III) |
-| 281 | 2022-05-19 | 계단 오르기 (2579번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/climbingStairs_2579.cpp) | DP - 백준 (Silver III) |
-| 280 | 2022-05-18 | 정수 삼각형 (1932번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NumTriangle_1932.cpp) | DP - 백준 (Silver I) |
-| 279 | 2022-05-18 | 모든 순열 (10974번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/everySequence_10974.cpp) | 백트레킹 - 백준 (Silver III) |
-| 278 | 2022-05-18 | N과 M(5) (15654번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM5_15654.cpp) | 백트레킹 - 백준 (Silver III) |
-| 277 | 2022-05-18 | N과 M(4) (15652번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM4_15652.cpp) | 백트레킹 - 백준 (Silver III) |
-| 276 | 2022-05-18 | N과 M(3) (15651번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM3_15651.cpp) | 백트레킹 - 백준 (Silver III) |
-| 275 | 2022-05-18 | N과 M(1) (15649번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/NandM1_15649.cpp) | 백트레킹 - 백준(Silver III) |
-| 274 | 2022-05-16 | 카드2 (2164번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/card2_2164.cpp) | 구현 - 백준 (Silver IV) |
-| 273 | 2022-05-16 | 점프 점프 (11060번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/jumpJump_11060.cpp) | DP - 백준 (Silver II) |
-| 272 | 2022-05-16 | 연결 요소의 개수 (11724번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/connectionComponent_11724.cpp) | 그래프 탐색 - 백준 (Silver II) |
-| 271 | 2022-05-15 | 미로 탐색 (1260번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/mazeSearch_2178.cpp) | 그래프 탐색 - 백준 (Silver I) |
-| 270 | 2022-05-15 | DFS와 BFS (1260번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/DFSBFS_1260.cpp) | 그래프 탐색 - 백준 (Silver II) |
+| 386 | 2022-07-13 | 사다리 조작 (15684번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/ladderControl_15684.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제 - 다시풀기 |
+| 385 | 2022-07-13 | 탈출 (3055번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/exit_3055.cpp) | BFS/DFS - 백준 (Gold IV) |
+| 384 | 2022-07-13 | 스도쿠 (2239번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/sudoku_2239.cpp) | 백트레킹 - 백준 (Gold IV) |
+| 383 | 2022-07-13 | 보물섬 (2589번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/treasureIsland_2589.cpp) | BFS/DFS - 백준 (Gold V) |
+| 382 | 2022-07-13 | 데스 나이트 (16948번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/deathKnight_16948.cpp) | BFS/DFS - 백준 (Silver I) |
+| 381 | 2022-07-12 | Z (1074번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/Z_1074.cpp) | 재귀 - 백준 (Silver I) |
+| 380 | 2022-07-12 | 감시 피하기 (18428번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/avoidSurveillance_18428.cpp) | 백트레킹 - 백준 (Silver I) |
+| 379 | 2022-07-12 | 감시 (15683번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/surveillance_15683.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제 - 다시풀기 |
+| 378 | 2022-07-12 | ⚾ (17281번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/baseball_17281.cpp) | 시뮬레이션 - 백준 (Gold IV) |
+| 377 | 2022-07-12 | 하노이 탑 이동 순서 (11729번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/hanoiTower_11729.cpp) | 재귀 - 백준 (Silver I) - 다시풀기 |
+| 376 | 2022-07-12 | 곱셈 (1629번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/multiplication_1629.cpp) | 재귀 - 백준 (Silver I) - 다시풀기 |
+| 375 | 2022-07-11 | 아기 상어 (16236번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/babyShark_16236.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제 |
+| 374 | 2022-07-11 | 에너지 모으기 (16198번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/collectingEnergy_16198.cpp) | 백트레킹 - 백준 (Silver I) |
+| 373 | 2022-07-11 | 넴모넴모(Easy) (14712번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/nemonemoEasy_14712.cpp) | 시뮬레이션 - 백준 (Silver I) |
+| 372 | 2022-07-05 | 인구 이동 (16234번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/populationMove_16234.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
+| 371 | 2022-07-05 | 감소하는 수 (1038번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/decreasingNum_1038.cpp) | 백트래킹 - 백준 (Gold V) - 다시풀기 |
+| 370 | 2022-06-30 | 테트로미노 (14500번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/tetromino_14500.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
+| 369 | 2022-06-30 | 구간 합 구하기 4 (11659번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/findRangeSum4_11659.cpp) | DP/누적합 - 백준 (Silver III) |
+| 368 | 2022-06-30 | 2xn 타일링 (11726번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/2nTiling_11726.cpp) | DP - 백준 (Silver III) |
+| 367 | 2022-06-30 | RGB 거리 (1149번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/RGBStreet_1149.cpp) | DP - 백준 (Silver I) |
+| 366 | 2022-06-29 | 계단 오르기 (2579번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/climbingStair_2579.cpp) | DP - 백준 (Silver III) |
+| 365 | 2022-06-29 | 1,2,3 더하기 (9095번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/123addition_9095.cpp) | DP - 백준 (Silver III) |
+| 364 | 2022-06-29 | 1로 만들기 (1463번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/make1_1463.cpp) | DP - 백준 (Silver III) |
+| 363 | 2022-06-29 | 경사로 (14890번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/uphill_14890.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제|
+| 362 | 2022-06-29 | 스타트와 링크 (14889번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/startAndLink_14889.cpp) | 시뮬레이션 - 백준 (Silver II)- 삼성 SW 역량 테스트 기출문제|
+| 361 | 2022-06-29 | 톱니바퀴 (14891번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/gearWheel_14891.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
+| 360 | 2022-06-29 | 트럭 (13335번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/truck_13335.cpp) | 시뮬레이션 - 백준 (Silver I) |
+| 359 | 2022-06-28 | 뱀 (3190번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/snake_3190.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제|
+| 358 | 2022-06-27 | 부분합 (1806번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/subSum_1806.cpp) | 투 포인터 - 백준 (Gold IV) |
+| 357 | 2022-06-27 | 수 고르기 (2230번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/selectingNumber_2230.cpp) | 투 포인터 - 백준 (Gold V) |
+| 356 | 2022-06-27 | Puyo Puyo (11559번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/puyoPuyo_11559.cpp) | 시뮬레이션 - 백준 (Gold IV) |
+| 355 | 2022-06-26 | 소문난 칠공주 (1941번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/famous7Princess_1941.cpp) | 백트래킹 - 백준 (Gold III) |
+| 354 | 2022-06-26 | Gaaaaaaaaaarden (18809번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/Gaaaaaaaaaarden_18809.cpp) | 백트래킹 - 백준 (Gold I) |
+| 353 | 2022-06-24 | 스티커 붙이기 (18808번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/puttingSticker_18808.cpp) | 시뮬레이션 - 백준 (Gold III) |
+| 352 | 2022-06-24 | 로봇 청소기 (14503번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/roboticVacuum_14503.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
+| 351 | 2022-06-23 | 주사위 굴리기 (14499번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/rollingDice_14499.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제|
+| 350 | 2022-06-23 | 치킨 배달 (15686번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/chickenDelivery_15686.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
+| 349 | 2022-06-23 | 차집합 (1822번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/differnce_1822.cpp) | 이분탐색 - 백준 (Silver IV) |
+| 348 | 2022-06-23 | 숫자 카드 (10815번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/numberCard_10815.cpp) | 이분탐색 - 백준 (Silver V) |
+| 347 | 2022-06-23 | 세 수의 합 (2295번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/sumOfThreeNums_2295.cpp) | 이분탐색 - 백준 (Gold IV) |
+| 346 | 2022-06-22 | 좌표 압푹 (18870번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/compressCoord_18870.cpp) | 이분탐색 - 백준 (Silver II) |
+| 345 | 2022-06-22 | 숫자 카드 2 (10816번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/findingNum_1920.cpp) | 이분탐색 - 백준 (Silver IV) |
+| 344 | 2022-06-22 | 수 찾기 (1920번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/findingNum_1920.cpp) | 이분탐색 - 백준 (Silver IV) |
+| 343 | 2022-06-21 | 빙산 (2573번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/iceburg_2573.cpp) | BFS/DFS - 백준 (Gold IV) |
+| 342 | 2022-06-21 | 시리얼 번호 (1431번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/serialNumber_1431.cpp) | 정렬 - 백준 (Silver III) |
+| 341 | 2022-06-21 | 다리 만들기 (2146번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/makingBridge_2146.cpp) | BFS/DFS - 백준 (Gold IV) |
+| 340 | 2022-06-21 | 숨바꼭질 3 (13549번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/hideAndSeek3_13549.cpp) | BFS/DFS - 백준 (Gold V) - 다시풀기 |
+| 339 | 2022-06-21 | 단어 정렬 (1181번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/sortWord_1181.cpp) | 정렬 - 백준 (Silver V) |
+| 338 | 2022-06-21 | 벽 부수고 이동하기 (2206번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/breakingWallandMove_2206.cpp) | BFS/DFS - 백준 (Gold IV) - 다시풀기 |
+| 337 | 2022-06-21 | 단지번호붙이기 (2667번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/buildingNum_2667.cpp) | BFS/DFS - 백준 (Silver I) |
+| 336 | 2022-06-20 | 숨바꼭질 (1697번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/hideAndSeek_1697.cpp) | BFS/DFS - 백준 (Silver I) |
+| 335 | 2022-06-20 | 불! (4179번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/fire_4179.cpp) | BFS/DFS - 백준 (Gold IV) |
+| 334 | 2022-06-19 | 상범 빌딩 (6593번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/sangBumBuilding_6593.cpp) | BFS/DFS - 백준 (Gold V) |
+| 333 | 2022-06-19 | 스타트링크 (5014번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/startLink_5014.cpp) | BFS/DFS - 백준 (Gold V) |
+| 332 | 2022-06-17 | 영역 구하기 (2583번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/findingArea_2583.cpp) | BFS/DFS - 백준 (Silver I) |
+| 331 | 2022-06-17 | 연구소 (14502번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/laboratory_14502.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제|
+| 330 | 2022-06-17 | 토마토 (7576번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/tomato_7576.cpp) | BFS/DFS - 백준 (Gold V) |
+| 329 | 2022-06-17 | 불 (5427번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/fire_5427.cpp) | BFS/DFS - 백준 (Gold IV) |
+| 328 | 2022-06-17 | 나이트의 이동 (7562번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/knightMove_7562.cpp) | BFS/DFS - 백준 (Silver I) |
+| 327 | 2022-06-17 | 토마토 (7569번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/tomato_7569.cpp) | BFS/DFS - 백준 (Gold V) |
+| 326 | 2022-06-17 | 적록색약 (10026번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/redGreenColorBlind_10026.cpp) | BFS/DFS - 백준 (Gold V) |
+| 325 | 2022-06-17 | 미로탐색 (2178번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/searchMaze_2178.cpp) | BFS/DFS - 백준 (Silver I) |
+| 324 | 2022-06-17 | 연산자 끼워넣기 (14888번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/puttingOperator_14888.cpp) | 시뮬레이션 - 백준 (Silver I)- 삼성 SW 역량 테스트 기출문제 |
+| 323 | 2022-06-17 | 그림 (1926번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/picture_1926.cpp) | BFS/DFS - 백준 (Silver I) |
+| 322 | 2022-06-16 | 역원소 정렬 (5548번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/reverseSort_5648.cpp) | 정렬 - 백준 (Silver IV) |
+| 321 | 2022-06-16 | 유기농 배추 (1012번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/organicCabbage_1012.cpp) | BFS/DFS - 백준 (Silver II) |
+| 320 | 2022-06-15 | 비숍 (1799번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/bishop_1799.cpp) | 백트레킹 - 백준 (Gold I) - 다시풀기 |
+| 319 | 2022-06-15 | 최솟값 찾기 (11003번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/findingMin_11003.cpp) | 덱 - 백준 (Gold I) - 다시풀기 |
+| 318 | 2022-06-15 | 회전하는 큐 (1021번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/rotatingQueue_1021.cpp) | 덱 - 백준 (Silver IV) |
+| 317 | 2022-06-14 | 덱 (10866번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/deque_10866.cpp) | 덱 - 백준 (Silver IV) |
+| 316 | 2022-06-14 | 큐2 (18258번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/queue2_18258.cpp) | 큐 - 백준 (Silver IV) |
+| 315 | 2022-06-14 | 요세푸스 문제 (1158번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/yosepusProb_1158.cpp) | 연결 리스트 - 백준 (Silver IV) |
+| 314 | 2022-06-14 | 키로거 (5397번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/keyLogger_5397.cpp) | 연결 리스트 - 백준 (Silver II) |
+| 313 | 2022-06-14 | 오큰수 (2493번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/rightLargerNum_17298.cpp) | 스택 - 백준 (Gold IV) |
+| 312 | 2022-06-14 | 탑 (2493번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/stackSequence_1874.cpp) | 스택 - 백준 (Gold V) - 다시풀기 |
+| 311 | 2022-06-14 | 스택 수열 (1874번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/stackSequence_1874.cpp) | 스택 - 백준 (Silver II) |
+| 310 | 2022-06-14 | 제로 (10773번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/zero_10773.cpp) | 스택 - 백준 (Silver IV) |
+| 309 | 2022-06-14 | 스택 (10828번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/stack_10828.cpp) | 스택 - 백준 (Silver IV) |
+| 308 | 2022-06-14 | 에디터 (1406번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/editor_1406.cpp) | 연결 리스트 - 백준 (Silver II) |
+| 307 | 2022-06-14 | 계란으로 계란치기 (16987번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/hitEggWithEgg_16987.cpp) | 백트레킹 - 백준 (Silver I) |
+| 306 | 2022-06-13 | 애너그램 만들기 (1919번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/makingAnagram_1919.cpp) | 배열 - 백준 (Bronze II) |
+| 305 | 2022-06-13 | Strfry (11328번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/strfry_11328.cpp) | 배열 - 백준 (Bronze II) |
+| 304 | 2022-06-13 | 개수 세기 (10807번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/counting_10807.cpp) | 배열 - 백준 (Bronze V) |
+| 303 | 2022-06-13 | 알파벳 개수 (10808번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/alphabetCount_10808.cpp) | 배열 - 백준 (Bronze IV) |
+| 302 | 2022-06-12 | 두 수의 합 (3273번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/SumOf2Nums_3273.cpp) | 배열 - 백준 (Silver III) |
+| 301 | 2022-06-12 | 방번호 (1475번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/roomNumber_1475.cpp) | 배열 - 백준 (Silver V) |
+| 300 | 2022-06-12 | 숫자의 개수 (2577번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/numCount_2577.cpp) | 배열 - 백준 (Bronze II) |
+| 299 | 2022-06-11 | 2048(Easy) (12100번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/2048Easy_12100.cpp) | 백트레킹 - 백준 (Gold II) - 삼성 SW 역량 테스트 기출문제 |
+| 298 | 2022-06-11 | N-Queen (9663번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NQueen_9663.cpp) | 백트레킹 - 백준 (Gold IV) - 다시풀기 |
+| 297 | 2022-06-11 | 부등호 (2529번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/inequalitySign_2529.cpp) | 백트레킹 - 백준 (Silver II) |
+| 296 | 2022-06-11 | 가르침 (1062번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/teaching_1062.cpp) | 백트레킹 - 백준 (Gold IV) |
+| 295 | 2022-06-10 | N과 M(12) (15666번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NandM12_15666.cpp) | 백트레킹 - 백준 (Silver II) |
+| 294 | 2022-06-08 | 연산자 끼워넣기(2) (15658번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/insertingOperator2_15658.cpp) | 백트레킹 - 백준 (Silver II) |
+| 293 | 2022-06-08 | N과 M(11) (15665번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NandM11_15665.cpp) | 백트레킹 - 백준 (Silver II) |
+| 292 | 2022-06-08 | 암호 만들기 (1759번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/makingPassword_1759.cpp) | 백트레킹 - 백준 (Gold V) |
+| 291 | 2022-06-08 | N과 M(10) (15664번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NandM10_15664.cpp) | 백트레킹 - 백준 (Silver II) |
+| 290 | 2022-06-08 | 로또 (6603번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/lotto_6603.cpp) | 백트레킹 - 백준 (Silver II) |
+| 289 | 2022-06-08 | 1,2,3 더하기 2 (12101번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/123Addition2_12101.cpp) | 백트레킹 - 백준 (Silver I) |
+| 288 | 2022-06-08 | N과 M(9) (15663번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NandM9_15663.cpp) | 백트레킹 - 백준 (Silver II) |
+| 287 | 2022-06-05 | 외판원 순회2 (10971번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/travelingSalesmanProblem2_10971.cpp) | 백트레킹 - 백준 (Silver II) |
+| 286 | 2022-06-05 | 부분수열의 합 (1187번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/sumOfPartSequence_1182.cpp) | 백트레킹 - 백준 (Silver II) |
+| 285 | 2022-06-05 | N과 M(8) (15657번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NandM8_15657.cpp) | 백트레킹 - 백준 (Silver III) |
+| 284 | 2022-06-05 | N과 M(7) (15656번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NandM7_15656.cpp) | 백트레킹 - 백준 (Silver III) |
+| 283 | 2022-06-05 | N과 M(6) (15655번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NandM6_15655.cpp) | 백트레킹 - 백준 (Silver III) |
+| 282 | 2022-05-19 | 1로 만들기 (1463번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/makeOne_1463.cpp) | DP - 백준 (Silver III) |
+| 281 | 2022-05-19 | 계단 오르기 (2579번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/climbingStairs_2579.cpp) | DP - 백준 (Silver III) |
+| 280 | 2022-05-18 | 정수 삼각형 (1932번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NumTriangle_1932.cpp) | DP - 백준 (Silver I) |
+| 279 | 2022-05-18 | 모든 순열 (10974번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/everySequence_10974.cpp) | 백트레킹 - 백준 (Silver III) |
+| 278 | 2022-05-18 | N과 M(5) (15654번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NandM5_15654.cpp) | 백트레킹 - 백준 (Silver III) |
+| 277 | 2022-05-18 | N과 M(4) (15652번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NandM4_15652.cpp) | 백트레킹 - 백준 (Silver III) |
+| 276 | 2022-05-18 | N과 M(3) (15651번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NandM3_15651.cpp) | 백트레킹 - 백준 (Silver III) |
+| 275 | 2022-05-18 | N과 M(1) (15649번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/NandM1_15649.cpp) | 백트레킹 - 백준(Silver III) |
+| 274 | 2022-05-16 | 카드2 (2164번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/card2_2164.cpp) | 구현 - 백준 (Silver IV) |
+| 273 | 2022-05-16 | 점프 점프 (11060번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/jumpJump_11060.cpp) | DP - 백준 (Silver II) |
+| 272 | 2022-05-16 | 연결 요소의 개수 (11724번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/connectionComponent_11724.cpp) | 그래프 탐색 - 백준 (Silver II) |
+| 271 | 2022-05-15 | 미로 탐색 (1260번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/mazeSearch_2178.cpp) | 그래프 탐색 - 백준 (Silver I) |
+| 270 | 2022-05-15 | DFS와 BFS (1260번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/DFSBFS_1260.cpp) | 그래프 탐색 - 백준 (Silver II) |
 | 269 | 2022-04-29 | 테트로미노 (14500번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/tetromino_14500.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
 | 268 | 2022-04-29 | 컨베이어 벨트 위의 로봇 (20055번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/conveyorBelt_20055.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold V) |
 | 267 | 2022-04-28 | 주사위 윷놀이 (17825번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/Samsung2022/diceGame_17825.cpp) | 삼성 SW 역량 테스트 기출문제 - 백준 (Gold II) |
