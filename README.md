@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 386 | 2022-07-13 | 사다리 조작 (15684번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/ladderControl_15684.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제 - 다시풀기 |
 | 385 | 2022-07-13 | 탈출 (3055번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/exit_3055.cpp) | BFS/DFS - 백준 (Gold IV) |
 | 384 | 2022-07-13 | 스도쿠 (2239번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/sudoku_2239.cpp) | 백트레킹 - 백준 (Gold IV) |
 | 383 | 2022-07-13 | 보물섬 (2589번)| [C++](https://github.com/cindia3704/Algopat/blob/main/beakjun/2022/treasureIsland_2589.cpp) | BFS/DFS - 백준 (Gold V) |
