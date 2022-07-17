@@ -5,7 +5,8 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 390 | 2022-07-17 | 캠프 준비 (17140번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/campPreparation_16938.cpp) | 백트래킹 - 백준 (Gold V) |
+| 391 | 2022-07-18 | 2차원 배열과 연산 (17140번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/2dArrOperation_17140.cpp) | 시뮬레이션 - 백준 (Gold IV) |
+| 390 | 2022-07-17 | 캠프 준비 (16938번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/campPreparation_16938.cpp) | 백트래킹 - 백준 (Gold V) |
 | 389 | 2022-07-17 | 알파벳 (17140번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/alphabet_1987.cpp) | 백트래킹 - 백준 (Gold IV) |
 | 388 | 2022-07-14 | Maaaaaaaaaze (16985번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/maaaaaaaaaze_16985.cpp) | 시뮬레이션 - 백준 (Gold III) |
 | 387 | 2022-07-14 | 개미 (3048번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/ant_3048.cpp) | 시뮬레이션 - 백준 (Silver IV) |
