@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 394 | 2022-07-19 | 이진수 표현 (10726번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/binaryRepresentation_10726.cpp) | 비트 - SWEA |
 | 393 | 2022-07-19 | 새로운 불면증 치료법 (1288번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/newInsomniaCure_1288.cpp) | 비트 - SWEA |
 | 392 | 2022-07-18 | 내리막 길 (1520번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/downhill_1520.cpp) | BFS/DFS & DP - 백준 (Gold III) |
 | 391 | 2022-07-18 | 2차원 배열과 연산 (17140번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/2dArrOperation_17140.cpp) | 시뮬레이션 - 백준 (Gold IV) |
