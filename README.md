@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 402 | 2022-07-22 | 연구소 2 (17141번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/laboratory2_17141.cpp) | 시뮬레이션 - 백준 (Gold IV) |
 | 401 | 2022-07-21 | 기초 Double Linked List 연습 (12303번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/doubleLinkedList_12304.cpp) | 링크드 리스트 - SWEA |
 | 400 | 2022-07-21 | 기초 Single Linked List 연습 (12303번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/singleLinkedList_12303.cpp) | 링크드 리스트 - SWEA |
 | 399 | 2022-07-21 | 마법사 상어와 파이어볼 (20056번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/wizardSharkFireball_20056.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제 |
