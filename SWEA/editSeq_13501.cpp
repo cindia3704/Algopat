@@ -37,7 +37,6 @@ void addNode(int num,int data){
     Node * newNode = getNode(data);
     newNode ->link = prevNode->link;
     prevNode->link = newNode; 
-    //cout<<"add  "<<data<<"  at:"<<num<<"   newNode->link:"<<newNode ->link<<" prev->link:"<<prevNode->link<<endl;
 }
 
 void deleteNode(int num){
