@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 407 | 2022-07-24 | 사칙연산 유효성 검사 (1233번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/calcPosProblem_1233.cpp) | 트리 - SWEA (D4) |
 | 406 | 2022-07-24 | 중위 순회 (1231번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/inOrderTraversal_1231.cpp) | 트리 - SWEA |
 | 405 | 2022-07-24 | 수열 편집 (13501번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/editSeq_13501.cpp) | 링크드 리스트 - SWEA |
 | 404 | 2022-07-24 | 암호문 3 (1230번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/cryptogram_1230.cpp) | 링크드 리스트 - SWEA (D3) |
