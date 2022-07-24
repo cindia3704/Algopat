@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 405 | 2022-07-24 | 수열 편집 (13501번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/editSeq_13501.cpp) | 링크드 리스트 - SWEA |
 | 404 | 2022-07-24 | 암호문 3 (1230번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/cryptogram_1230.cpp) | 링크드 리스트 - SWEA (D3) |
 | 403 | 2022-07-22 | NM 과 K(1) (18290번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/nmAndK1_18290.cpp) | 백트래킹 - 백준 (Silver I) |
 | 402 | 2022-07-22 | 연구소 2 (17141번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/laboratory2_17141.cpp) | 시뮬레이션 - 백준 (Gold IV) |
