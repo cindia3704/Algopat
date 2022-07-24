@@ -7,7 +7,7 @@
 #include <iostream>
 #include <cstring>
 #include <algorithm>
-#define MAX 11s
+#define MAX 11
 using namespace std;
 
 const int dx[4] = {0,1,0,-1};
