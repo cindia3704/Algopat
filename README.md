@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 410 | 2022-07-25 | 공통 조상 (1248번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/commonAncestor_1248.cpp) | 트리 - SWEA (D5) |
 | 409 | 2022-07-25 | 사칙연산 (1232번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/calculate_1232.cpp) | 트리 - SWEA (D4) |
 | 408 | 2022-07-25 | 색종이 붙이기 (17136번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/putColorPaper_17136.cpp) | 백트래킹 - 백준 (Gold II) |
 | 407 | 2022-07-24 | 사칙연산 유효성 검사 (1233번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/calcPosProblem_1233.cpp) | 트리 - SWEA (D4) |
