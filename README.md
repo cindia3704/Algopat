@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 413 | 2022-07-26 | 트리 (1068번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/tree_1068.cpp) | 트리 - 백준 (Gold V) |
 | 412 | 2022-07-26 | 기초 BFS 연습 (12318번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/basicBFSPractice_12318.cpp) | 그래프 - SWEA |
 | 411 | 2022-07-26 | 기초 DFS 연습 (12317번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/basicDFSPractice_12317.cpp) | 그래프 - SWEA |
 | 410 | 2022-07-25 | 공통 조상 (1248번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/commonAncestor_1248.cpp) | 트리 - SWEA (D5) |
