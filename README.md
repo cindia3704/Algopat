@@ -5,6 +5,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 419 | 2022-07-27 | 프로세서 연결하기 (1462번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/connectProcessor_1461.cpp) | 그래프 - SWEA |
 | 418 | 2022-07-27 | 애너그램 (6443번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/anagram_6443.cpp) | 백트래킹 - 백준 (Silver I) |
 | 417 | 2022-07-27 | 상어초등학교 (21608번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/sharkElementary_21608.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제 |
 | 416 | 2022-07-27 | 가장 가까운 공통 조상 (3584번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/clostestCommonAncestor_3584.cpp) | 트리 - 백준 (Gold IV) |
