@@ -1,4 +1,5 @@
 # Algopat
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltn3704)](https://solved.ac/wltn3704/)
 
 🍒Algorithm Study🍒
 
