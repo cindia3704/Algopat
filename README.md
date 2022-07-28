@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 422 | 2022-07-29 | 자기 방으로 돌아가기 (4408번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/goBackToRoom_4408.cpp) | 그리디 - SWEA |
 | 421 | 2022-07-28 | 쉬운 거스름돈 (1970번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/easyChange_1970.cpp) | 그리디 - SWEA |
 | 420 | 2022-07-27 | 파핑파핑 지뢰찾기 (1868번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/findMine_1868.cpp) | 그래프 - SWEA |
 | 419 | 2022-07-27 | 프로세서 연결하기 (1462번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/connectProcessor_1461.cpp) | 그래프 - SWEA |
