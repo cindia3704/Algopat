@@ -7,12 +7,13 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 423 | 2022-07-29 | 드래곤 커브 (15685번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/dragonCurve_15685.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제 |
 | 422 | 2022-07-29 | 자기 방으로 돌아가기 (4408번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/goBackToRoom_4408.cpp) | 그리디 - SWEA |
 | 421 | 2022-07-28 | 쉬운 거스름돈 (1970번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/easyChange_1970.cpp) | 그리디 - SWEA |
 | 420 | 2022-07-27 | 파핑파핑 지뢰찾기 (1868번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/findMine_1868.cpp) | 그래프 - SWEA |
 | 419 | 2022-07-27 | 프로세서 연결하기 (1462번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/connectProcessor_1461.cpp) | 그래프 - SWEA |
 | 418 | 2022-07-27 | 애너그램 (6443번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/anagram_6443.cpp) | 백트래킹 - 백준 (Silver I) |
-| 417 | 2022-07-27 | 상어초등학교 (21608번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/sharkElementary_21608.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제 |
+| 417 | 2022-07-27 | 상어 초등학교 (21608번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/sharkElementary_21608.cpp) | 시뮬레이션 - 백준 (Gold V)- 삼성 SW 역량 테스트 기출문제 |
 | 416 | 2022-07-27 | 가장 가까운 공통 조상 (3584번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/clostestCommonAncestor_3584.cpp) | 트리 - 백준 (Gold IV) |
 | 415 | 2022-07-27 | 미세먼지 안녕! (17144번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/byeDust_17144.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제 |
 | 414 | 2022-07-26 | 연구소 3 (17142번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/laboratory3_17142.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제 |
