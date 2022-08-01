@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 424 | 2022-08-01 | LCA (11437번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/LCA_11437.cpp) | 트리 - 백준 (Gold III) |
 | 423 | 2022-07-29 | 드래곤 커브 (15685번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/dragonCurve_15685.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제 |
 | 422 | 2022-07-29 | 자기 방으로 돌아가기 (4408번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/goBackToRoom_4408.cpp) | 그리디 - SWEA |
 | 421 | 2022-07-28 | 쉬운 거스름돈 (1970번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/easyChange_1970.cpp) | 그리디 - SWEA |
