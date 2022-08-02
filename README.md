@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 427 | 2022-08-02 | 영준이의 진짜 BFS (1855번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/youngjunsRealBFS_1855.cpp) | 그래프 - SWEA |
 | 426 | 2022-08-02 | LCA 2 (11438번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/LCA2_11438.cpp) | 트리 - 백준 (Platinum V) - 다시풀기 |
 | 425 | 2022-08-01 | 배열 돌리기 4 (17406번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/rotateArr4_17406.cpp) | 시뮬레이션 - 백준 (Gold IV) |
 | 424 | 2022-08-01 | LCA (11437번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/LCA_11437.cpp) | 트리 - 백준 (Gold III) |
