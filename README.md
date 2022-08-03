@@ -7,7 +7,8 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 433 | 2022-08-04 | 베스트셀러 (1302번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/algospot_1261.cpp) | 해시 - 백준 (Silver IV) |
+| 435 | 2022-08-04 | 평범한 배낭 (12865번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/commonBag_12865.cpp) | DP - 백준 (Gold V) |
+| 434 | 2022-08-04 | 베스트셀러 (1302번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/algospot_1261.cpp) | 해시 - 백준 (Silver IV) |
 | 433 | 2022-08-04 | 문자열 교집합 (2948번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/stringIntersection_2948.cpp) | 해시 - SWEA |
 | 432 | 2022-08-04 | 0/1 Knapsack (3282번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/knapsack_3282.cpp) | DP - SWEA |
 | 431 | 2022-08-03 | 최장 공통 부분 수열 (3304번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/LCS_3304.cpp) | DP - SWEA |
