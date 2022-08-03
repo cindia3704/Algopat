@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 432 | 2022-08-04 | 0/1 Knapsack (3282번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/knapsack_3282.cpp) | DP - SWEA |
 | 431 | 2022-08-03 | 최장 공통 부분 수열 (3304번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/LCS_3304.cpp) | DP - SWEA |
 | 430 | 2022-08-03 | 알고스팟 (1261번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/algospot_1261.cpp) | 시뮬레이션 - 백준 (Gold IV) |
 | 429 | 2022-08-02 | 트리의 지름 (1167번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/treeRadius_1167.cpp) | 트리 - 백준 (Gold II) |
