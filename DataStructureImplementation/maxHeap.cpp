@@ -1,8 +1,8 @@
 #include <algorithm>
 #include <cassert>
 #include <iostream>
-#include <stdlib.h>
-#include <stdexcept>
+
+
 using namespace std; 
 
 class MAXHeap{
@@ -10,7 +10,7 @@ class MAXHeap{
     #define left (i<<1)
     #define right (i<<1|1)
 
-    static const int MAX_N = 100000;
+    static constexpr size_t MAX_N = 100000;
     int data[MAX_N+1];
     size_t size; 
 private:
