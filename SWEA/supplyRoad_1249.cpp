@@ -18,23 +18,6 @@ const int dy[4] = {-1,0,1,0};
 int board[MAX][MAX];
 int dist[MAX][MAX];
 
-struct Road{
-    int y,x;
-    int cnt; 
-    int val; 
-}; 
-
-struct cmp{
-    bool operator()(Road a, Road b){
-        if(a.cnt==b.cnt){
-            if(a.y == b.y){
-                return a.x>b.x;
-            }
-            return a.y>b.y;
-        }
-        return a.cnt<b.cnt;
-    }
-};
 
 void bfs(int boardSize){
     queue<pair<int,int> >  q; 
