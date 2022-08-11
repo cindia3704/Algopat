@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 445 | 2022-08-11 | [ Professional ] 단어가 등장하는 횟수 (4038번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/wordApperanceCnt_4038.cpp) | KMP / 해시 - SWEA |
 | 444 | 2022-08-11 | KMP 알고리즘| [C++](https://github.com/cindia3704/Algopat/blob/main/DataStructureImplementation/KMP.cpp) | ==== KMP 알고리즘 구현하기 ===== |
 | 443 | 2022-08-10 | [S/W 문제해결 응용] 4일차 - 보급로 (1249번)| [C++ 우선순위 큐](https://github.com/cindia3704/Algopat/blob/main/SWEA/supplyRoad2_1249.cpp) / [C++ 완탐 DP](https://github.com/cindia3704/Algopat/blob/main/SWEA/supplyRoad_1249.cpp)| 힙 - SWEA |
 | 442 | 2022-08-09 | 중간값 구하기 (3000번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/findMidVal_3000.cpp) | 힙 - SWEA |
