@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 456 | 2022-08-18 | 약수의 합 2 (17427번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/divisorSum2_17427.cpp) | 수학 - 백준 (Silver II) |
 | 455 | 2022-08-18 | 약수 (1037번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/divisor_1037.cpp) | 수학 - 백준 (Bronze I) |
 | 454 | 2022-08-18 | 나머지 (10430번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/one_4375.cpp) | 수학 - 백준 (Bronze V) |
 | 453 | 2022-08-18 | 1 (4375번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/one_4375.cpp) | 수학 - 백준 (Silver III) |
