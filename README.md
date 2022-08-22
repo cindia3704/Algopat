@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 464 | 2022-08-22 | 사탕 게임 (3085번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/candyGame_3085.cpp) | 브루트포스 - 백준 (Silver III) |
 | 463 | 2022-08-19 | 일곱 난쟁이 (2309번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/sevenDwarf_2309.cpp) | 브루트포스 - 백준 (Bronze I) |
 | 462 | 2022-08-19 | 골드바흐의 추측 (6588번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/prediction_6588.cpp) | 수학 - 백준 (Silver I) |
 | 461 | 2022-08-19 | 소수 구하기 (1929번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/calcPrime_1929.cpp) | 수학 - 백준 (Silver III) |
