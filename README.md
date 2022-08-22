@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 466 | 2022-08-22 | 촛불 이벤트 (9843번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/candleEvent_9843.cpp) | 이분 탐색 - SWEA |
 | 465 | 2022-08-22 | 영어공부 (10507번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/engStudy_10507.cpp) | 이분 탐색 - SWEA |
 | 464 | 2022-08-22 | 사탕 게임 (3085번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/candyGame_3085.cpp) | 브루트포스 - 백준 (Silver III) |
 | 463 | 2022-08-19 | 일곱 난쟁이 (2309번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/sevenDwarf_2309.cpp) | 브루트포스 - 백준 (Bronze I) |
