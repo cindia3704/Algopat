@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 473 | 2022-08-23 | 섬지키기 (14596번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/protectIsland_14596.cpp) | Pro 실전문제 - SWEA |
 | 472 | 2022-08-23 | 3차원 농부 (8898번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/3dFarmer_8898.cpp) | 이분 탐색 - SWEA |
 | 471 | 2022-08-23 | 사탕 가방 (11446번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/candyBag_11446.cpp) | 이분 탐색 - SWEA |
 | 470 | 2022-08-23 | 광고 시간 정하기 (9999번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/chooseAdTime_9999.cpp) | 이분 탐색 - SWEA |
