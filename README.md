@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 470 | 2022-08-23 | 광고 시간 정하기 (9999번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/chooseAdTime_9999.cpp) | 이분 탐색 - SWEA |
 | 469 | 2022-08-23 | 카잉 달력 (6064번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/kaingCal_6064.cpp) | 브루트포스 - 백준 (Silver I) |
 | 468 | 2022-08-22 | 리모컨 (1107번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/remoteControl_1107.cpp) | 브루트포스 - 백준 (Gold V) |
 | 467 | 2022-08-22 | 날짜 계산 (1476번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/calcDate_1476.cpp) | 브루트포스 - 백준 (Silver V) |
