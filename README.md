@@ -7,7 +7,8 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 476 | 2022-08-24 | [ S/W 문제해결 응용 ] 6일차 - K번째 접미어 (1256번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/kthSuffix_1256.cpp) | 트라이 - SWEA |
+| 477 | 2022-08-24 | K번째 문자열 (1257번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/kthString_1257.cpp) | 트라이 - SWEA |
+| 476 | 2022-08-24 | K번째 접미어 (1256번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/kthSuffix_1256.cpp) | 트라이 - SWEA |
 | 475 | 2022-08-24 | [ Professional ] Inversion Counting (3998번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/InversionCounting_3998.cpp) | 분할 정복 - SWEA |
 | 474 | 2022-08-24 | 수 이어 쓰기 1 (1748번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/writeNum1_1748.cpp) | 브루트포스 - 백준 (Silver IV) |
 | 473 | 2022-08-23 | 섬지키기 (14596번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/protectIsland_14596.cpp) | Pro 실전문제 - SWEA |
