@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 475 | 2022-08-24 | [ Professional ] Inversion Counting (3998번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/InversionCounting_3998.cpp) | 이분 탐색 - SWEA |
 | 474 | 2022-08-24 | 수 이어 쓰기 1 (1748번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/writeNum1_1748.cpp) | 브루트포스 - 백준 (Silver IV) |
 | 473 | 2022-08-23 | 섬지키기 (14596번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/protectIsland_14596.cpp) | Pro 실전문제 - SWEA |
 | 472 | 2022-08-23 | 3차원 농부 (8898번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/3dFarmer_8898.cpp) | 이분 탐색 - SWEA |
