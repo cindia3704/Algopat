@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 480 | 2022-08-25 | Trie (트라이)| [C++](https://github.com/cindia3704/Algopat/blob/main/DataStructureImplementation/trie.cpp) | ==== 트라이 구현하기 ===== |
 | 479 | 2022-08-25 | [ Pro ]단어 검색 (14707번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/wordSearch_14707.cpp) | 트라이 - SWEA |
 | 478 | 2022-08-24 | 그래도 수명이 절반이 되어서는... (3813번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/lifeHalf_3813.cpp) | 이분 탐색 - SWEA |
 | 477 | 2022-08-24 | K번째 문자열 (1257번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/kthString_1257.cpp) | 트라이 - SWEA |
