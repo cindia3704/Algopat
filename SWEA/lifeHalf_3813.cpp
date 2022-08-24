@@ -65,7 +65,6 @@ int main(int argc, char** argv)
         for(int i=0;i<coverCnt;i++){
             cin>>coverSize[i];
         }
-        cout<<"binSearch!!"<<endl;
         ans = min(ans,binSearch());
         cout<<"#"<<test_case<<" "<<ans<<'\n';
 
