@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 482 | 2022-08-26 | Segment Tree 연습 - 2 (14733번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/segmentTree2_14733.cpp) | 세그먼트 트리 - SWEA |
 | 482 | 2022-08-26 | Segment Tree 연습 - 1 (14726번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/segmentTree1_14726.cpp) | 세그먼트 트리 - SWEA |
 | 481 | 2022-08-26 | Segment Tree (세그먼트 트리)| [C++](https://github.com/cindia3704/Algopat/blob/main/DataStructureImplementation/segmentTree.cpp) | ==== 세그먼트 트리 구현하기 ===== |
 | 480 | 2022-08-25 | Trie (트라이)| [C++](https://github.com/cindia3704/Algopat/blob/main/DataStructureImplementation/trie.cpp) | ==== 트라이 구현하기 ===== |
