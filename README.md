@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 485 | 2022-08-30 | 스팟마트 (8935번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/spotMart_8935.cpp) | DP - SWEA |
 | 484 | 2022-08-30 | 수 묶기 (1744번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/groupNum_1744.cpp) | 그리디 - 백준 (Gold V) |
 | 483 | 2022-08-30 | 최대 상금 (1244번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/maxPrize_1244.cpp) | 그리디 - SWEA |
 | 482 | 2022-08-26 | Segment Tree 연습 - 2 (14733번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/segmentTree2_14733.cpp) | 세그먼트 트리 - SWEA |
