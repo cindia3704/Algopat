@@ -1,4 +1,8 @@
-
+/*
+    작성자: 김지수
+    작성일: 2022/08/31
+    SWEA -- 메일서버 (9465 번)
+*/
 #ifndef _CRT_SECURE_NO_WARNINGS
 #define _CRT_SECURE_NO_WARNINGS
 #endif
