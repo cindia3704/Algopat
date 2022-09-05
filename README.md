@@ -7,10 +7,11 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 489 | 2022-08-31 | 메일서버 (9465 번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/mailServer_9465.cpp) | DP - SWEA |
+| 490 | 2022-09-05 | 달력 (20207번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/calendar_20207.cpp) | 구현 - 백준 (Silver I) |
+| 489 | 2022-08-31 | 메일서버 (9465 번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/mailServer_9465.cpp) | SWEA |
 | 488 | 2022-08-31 | 은기의 아주 큰 그림 (7091 번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/bigPic_7091.cpp) | DP - SWEA |
-| 487 | 2022-08-3 | 메모리 시스템 (14612번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/memSys_14612.cpp) | DP - SWEA |
-| 486 | 2022-08-32 | 문자열 암호화| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/encrypStr.cpp) | DP - SWEA |
+| 487 | 2022-08-3 | 메모리 시스템 (14612번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/memSys_14612.cpp) | SWEA |
+| 486 | 2022-08-32 | 문자열 암호화| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/encrypStr.cpp) | SWEA |
 | 485 | 2022-08-30 | 스팟마트 (8935번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/spotMart_8935.cpp) | DP - SWEA |
 | 484 | 2022-08-30 | 수 묶기 (1744번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/groupNum_1744.cpp) | 그리디 - 백준 (Gold V) |
 | 483 | 2022-08-30 | 최대 상금 (1244번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/maxPrize_1244.cpp) | 그리디 - SWEA |
