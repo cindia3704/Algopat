@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 491 | 2022-09-05 | 점화식 (13699번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/equation_13699.cpp) | DP - 백준 (Silver IV) |
 | 490 | 2022-09-05 | 달력 (20207번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/calendar_20207.cpp) | 구현 - 백준 (Silver I) |
 | 489 | 2022-08-31 | 메일서버 (9465 번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/mailServer_9465.cpp) | SWEA |
 | 488 | 2022-08-31 | 은기의 아주 큰 그림 (7091 번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/bigPic_7091.cpp) | DP - SWEA |
