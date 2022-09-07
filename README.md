@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 494 | 2022-09-07 | 단어 뒤집기 2 (17413번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/flipWord2_17413.cpp) | 구현 - 백준 (Silver III) |
 | 493 | 2022-09-06 | 징검다리 | [C++](https://github.com/cindia3704/Algopat/blob/main/softeer/bridge.cpp) | Softeer |
 | 492 | 2022-09-06 | 성적평균 | [C++](https://github.com/cindia3704/Algopat/blob/main/softeer/gradAvg.cpp) | Softeer |
 | 491 | 2022-09-05 | 점화식 (13699번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/equation_13699.cpp) | DP - 백준 (Silver IV) |
