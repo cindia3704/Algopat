@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 496 | 2022-09-07 | A와 B 2 (12919번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/aAndB_12919.cpp) | 구현/브루트포스 - 백준 (Gold V) |
 | 495 | 2022-09-07 | 빗물 (14719번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/rainDrop_14719.cpp) | 구현 - 백준 (Gold V) |
 | 494 | 2022-09-07 | 단어 뒤집기 2 (17413번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/flipWord2_17413.cpp) | 구현 - 백준 (Silver III) |
 | 493 | 2022-09-06 | 징검다리 | [C++](https://github.com/cindia3704/Algopat/blob/main/softeer/bridge.cpp) | Softeer |
