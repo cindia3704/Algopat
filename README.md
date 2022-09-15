@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 509 | 2022-09-15 | 마법사 상어와 블리자드 (21611번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/wizardSharkAndBlizard_21611.cpp) | 시뮬레이션 - 백준 (Gold I)- 삼성 SW 역량 테스트 기출문제 |
 | 508 | 2022-09-15 | 청소년 상어 (19236번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/teenageSharkReview_19236.cpp) | 시뮬레이션 - 백준 (Gold II)- 삼성 SW 역량 테스트 기출문제 |
 | 507 | 2022-09-15 | Z (1074번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/zreview_1074.cpp) | 시뮬레이션 - 백준 (Silver I) |
 | 506 | 2022-09-15 | 견우와 직녀 (16137번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/guenwoJikneo_16137.cpp) | 시뮬레이션 - 백준 (Gold II) |
