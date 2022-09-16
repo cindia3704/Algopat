@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 513 | 2022-09-17 | 열쇠 (9328번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/key_9328.cpp) | BFS/DFS - 백준 (Gold I) |
 | 512 | 2022-09-17 | 창고 다각형 (2304번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/wareHouseShape_2304.cpp) | 구현 - 백준 (Silver II) |
 | 511 | 2022-09-17 | 외계인의 기타 연주 (2841번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/ailenGuitarPlay_2841.cpp) | 구현 - 백준 (Silver I) |
 | 510 | 2022-09-16 | 뱀과 사다리 게임 (16928번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/snakeLadderGame_16928.cpp) | BFS/DFS - 백준 (Gold V) |
