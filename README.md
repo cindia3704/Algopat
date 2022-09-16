@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 512 | 2022-09-17 | 창고 다각형 (2304번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/wareHouseShape_2304.cpp) | 구현 - 백준 (Silver II) |
 | 511 | 2022-09-17 | 외계인의 기타 연주 (2841번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/ailenGuitarPlay_2841.cpp) | 구현 - 백준 (Silver I) |
 | 510 | 2022-09-16 | 뱀과 사다리 게임 (16928번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/snakeLadderGame_16928.cpp) | BFS/DFS - 백준 (Gold V) |
 | 509 | 2022-09-15 | 마법사 상어와 블리자드 (21611번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/wizardSharkAndBlizard_21611.cpp) | 시뮬레이션 - 백준 (Gold I)- 삼성 SW 역량 테스트 기출문제 |
