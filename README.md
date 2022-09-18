@@ -7,7 +7,8 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
-| 520 | 2022-09-18 | 짝지어 제거하기 (129732번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/removePair_12973.cpp) | 구현- 프로그래머스 (Lv. 2) |
+| 521 | 2022-09-18 | 구명보트 (42885번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/lifeBoat_42885.cpp) | 구현- 프로그래머스 (Lv. 2) |
+| 520 | 2022-09-18 | 짝지어 제거하기 (12973번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/removePair_12973.cpp) | 구현- 프로그래머스 (Lv. 2) |
 | 519 | 2022-09-18 | 카펫 (42842번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/carpet_42842.cpp) | 구현- 프로그래머스 (Lv. 2) |
 | 518 | 2022-09-18 | 영어 끝말잇기 (12981번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/endWordGame_12981.cpp) | 구현- 프로그래머스 (Lv. 2) - Summer/Winter Coding(~2018) |
 | 517 | 2022-09-18 | 다음 큰 숫자 (12911번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/nextBigNum_12911.cpp) | 구현- 프로그래머스 (Lv. 2) |
