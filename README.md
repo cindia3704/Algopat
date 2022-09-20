@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 527 | 2022-09-20 | 용액 합성하기 (14921번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/mixChemical_14921.cpp) | 투포인터 - 백준 (Gold III) |
 | 526 | 2022-09-20 | 피리 부는 사나이 (16724번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/piedPiper_16724.cpp) | BFS/DFS - 백준 (Gold III) |
 | 525 | 2022-09-20 | 텀 프로젝트 (9466번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/termProject_9466.cpp) | BFS/DFS - 백준 (Gold III) |
 | 524 | 2022-09-18 | N개의 최소공배수 (12953번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/lcmOfN_12953.cpp) | 구현- 프로그래머스 (Lv. 2) - 다시풀기 |
