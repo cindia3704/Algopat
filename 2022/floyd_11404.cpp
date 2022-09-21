@@ -7,7 +7,7 @@
 #include <iostream>
 #include <cstring>
 #define MAX 101
-#define INF 100000001
+#define INF 100000001   // 비용 최대 = 100,000 & 노드 최대수 = 100 => 최대 비용 = 곱한거
 using namespace std; 
 
 int nodeCnt,edgeCnt;
