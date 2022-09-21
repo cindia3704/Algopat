@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 531 | 2022-09-21 | 노드사이의 거리 (1240번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/nodeDist_1240.cpp) | 그래프 - 백준 (Gold V) |
 | 530 | 2022-09-21 | 에라토스테네스의 체 (2960번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/eratosthenes_2960.cpp) | 구현 - 백준 (Silver IV) |
 | 529 | 2022-09-20 | 플로이드 (11404번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/floyd_11404.cpp) | 플로이드 워샬 - 백준 (Gold IV) |
 | 528 | 2022-09-20 | 키 순서 (2458번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/heightOrder_2458.cpp) | 플로이드 워샬 - 백준 (Gold IV) |
