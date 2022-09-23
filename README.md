@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 537 | 2022-09-23 | 1차 캐시 (17680번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/cache_17680.cpp) | 구현- 프로그래머스 (Lv. 2) - 2018 KAKAO BLIND RECRUITMENT |
 | 536 | 2022-09-23 | 점프와 순간 이동 (12985번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/jumpAndMove_12980.cpp) | 구현- 프로그래머스 (Lv. 2) |
 | 535 | 2022-09-23 | 예상 대진표 (12985번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/orderPrediction_12985.cpp) | 구현- 프로그래머스 (Lv. 2) |
 | 534 | 2022-09-22 | 카드1 (2161번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/card1_2161.cpp) | 구현 - 백준 (Silver V) |
