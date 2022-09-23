@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 535 | 2022-09-23 | 예상 대진표 (12985번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/orderPrediction_12985.cpp) | 구현- 프로그래머스 (Lv. 2) |
 | 534 | 2022-09-22 | 카드1 (2161번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/card1_2161.cpp) | 구현 - 백준 (Silver V) |
 | 533 | 2022-09-21 | 운동 (1956번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/workout_1956.cpp) | 플로이드 워샬 - 백준 (Gold IV) |
 | 532 | 2022-09-21 | 최소비용 구하기 (1916번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/findLeastWeight_1916.cpp) | 다익스트라 - 백준 (Gold V) |
