@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 540 | 2022-09-24 | n^2 배열 자르기 (87390번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/cutArr_87390.cpp) | 구현- 프로그래머스 (Lv. 2) |
 | 539 | 2022-09-24 | 야근 지수 (12927번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/overnightWork_12927.cpp) | 구현- 프로그래머스 (Lv. 3) |
 | 538 | 2022-09-24 | 진법 변환 2 (11005번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/changeBase_11005.cpp) | 구현 - 백준 (Bronze I) |
 | 537 | 2022-09-23 | 1차 캐시 (17680번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/cache_17680.cpp) | 구현- 프로그래머스 (Lv. 2) - 2018 KAKAO BLIND RECRUITMENT |
