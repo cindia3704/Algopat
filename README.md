@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 548 | 2022-10-05 | 토너먼트 (1057번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/tournament_1057.cpp) | 브루트포스 - 백준 (Silver III) |
 | 547 | 2022-10-05 | 체스판 다시 칠하기 (1018번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/colorChessBoard_1018.cpp) | 브루트포스 - 백준 (Silver IV) |
 | 546 | 2022-10-05 | 크면서 작은 수 (2992번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/largeSmallNum_2992.cpp) | 백트레킹 - 백준 (Silver III) |
 | 545 | 2022-09-28 | 낚시왕 (17143번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/fishingKing_17143.cpp) | 시뮬레이션 - 백준 (Gold I)- 삼성 SW 역량 테스트 기출문제 |
