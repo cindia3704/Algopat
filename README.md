@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 558 | 2022-10-06 | 원판 돌리기 (17822번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/rollWheel_17822.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제 |
 | 557 | 2022-10-06 | 여왕벌 (10836번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/queenBee_10836.cpp) | 시뮬레이션 - 백준 (Gold IV) |
 | 556 | 2022-10-06 | 보물상자 비밀번호 (5658번)| [C++](https://github.com/cindia3704/Algopat/blob/main/SWEA/treasureBoxPW_5658.cpp) | SWEA - [모의 SW 역량테스트] |
 | 555 | 2022-10-06 | 치즈 (2638번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/cheese_2638.cpp) | 시뮬레이션 - 백준 (Gold III) |
