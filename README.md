@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 581 | 2022-10-13 | 놀이기구 탑승 (36번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/rides_36.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
 | 580 | 2022-10-13 | 미로 타워 디펜스 (39번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/mazeTowerDefense_39.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
 | 579 | 2022-10-13 | 전투 로봇 (19번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/battleRobot_19.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
 | 578 | 2022-10-13 | 병원 거리 최소화하기 (16번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/minHospitalDistance_16.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
