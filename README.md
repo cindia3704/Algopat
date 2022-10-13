@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 578 | 2022-10-13 | 병원 거리 최소화하기 (16번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/minHospitalDistance_16.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
 | 577 | 2022-10-13 | 자율주행 자동차 (8번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/automaticCar_8.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
 | 576 | 2022-10-13 | 방화벽 설치하기 (7번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/insetFireWall_7.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
 | 575 | 2022-10-13 | 바이러스 검사 (3번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/checkVirus_3.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
