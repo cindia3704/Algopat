@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 586 | 2022-10-14 | 예술성 (45번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/artisticSkill_45.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
 | 585 | 2022-10-14 | 격자 숫자 놀이 (22번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/boardNumberGame_22.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
 | 584 | 2022-10-14 | 토스트 계란틀 (17번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/toastBoard_17.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
 | 583 | 2022-10-14 | 술래 잡기 (44번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/hideNSeek_44.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
