@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 588 | 2022-10-15 | 마법사 상어와 파이어스톰 (20058번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/wizardSharkAndFireStorm_review_20058.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제 |
 | 587 | 2022-10-15 | 마법사 상어와 토네이도 (20057번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/wizardSharkAndTornado_review_20057.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제 |
 | 586 | 2022-10-14 | 예술성 (45번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/artisticSkill_45.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
 | 585 | 2022-10-14 | 격자 숫자 놀이 (22번)| [C++](https://github.com/cindia3704/Algopat/blob/main/codeTree/boardNumberGame_22.cpp) | 코드트리 - 삼성 SW 역량 테스트 기출문제 |
