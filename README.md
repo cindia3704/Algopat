@@ -7,6 +7,7 @@
 목표: 500문제 풀기💚
 |**번호**|**날짜**|**문제**|**언어**|**기타**|
 |---|------|---|---|---|
+| 591 | 2022-10-18 | 택배 마스터 광우 | [C++](https://github.com/cindia3704/Algopat/blob/main/softeer/deliveryMaster.cpp) | Softeer |
 | 590 | 2022-10-15 | 상어 중학교 (21609번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/middleSchoolShark_review_21609.cpp) | 시뮬레이션 - 백준 (Gold II)- 삼성 SW 역량 테스트 기출문제 |
 | 589 | 2022-10-15 | 미세먼지 안녕! (17144번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/byeDust_review_17144.cpp) | 시뮬레이션 - 백준 (Gold IV)- 삼성 SW 역량 테스트 기출문제 |
 | 588 | 2022-10-15 | 마법사 상어와 파이어스톰 (20058번)| [C++](https://github.com/cindia3704/Algopat/blob/main/2022/wizardSharkAndFireStorm_review_20058.cpp) | 시뮬레이션 - 백준 (Gold III)- 삼성 SW 역량 테스트 기출문제 |
